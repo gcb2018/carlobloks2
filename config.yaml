@@ -1,0 +1,74 @@
+baseURL: "https://eager-mcnulty-503010.netlify.app/"
+title: Carlo Bloks
+paginate: 8
+theme: papermod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Contact
+                  url: contact/
+                  weight: 5
+                - name: Resume
+                  url: resume/
+                  weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    # author: ["Me", "You"] # multiple authors
+    ShowReadingTime: true
+    defaultTheme: dark
+    ShowShareButtons: false
+    displayFullLangName: true
+    # images: ""
+    # assets:
+    #   favicon: '<path / external url>'
+
+    profileMode:
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "Hi \U0001F44B"
+        Content: >
+            My name is Carlo and I am a **Product Owner / Product Manager** and constantly seeking new things to learn
+
+            > Some of those things I'll share here...
+
+    socialIcons:
+        - name: linkedin
+          url: "https://www.linkedin.com/in/carlobloks"
+        - name: github
+          url: "https://github.com/gcb2018/"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series

@@ -5,8 +5,7 @@ permalink: /resume/
 tags: ["resume", "cv"]
 ShowToc: true
 ---
-# Carlo Bloks
-Digital Product Owner
+## Digital Product Owner / Product Manager
 
 <div id="webaddress">
 <a href="mailto:carlobloks@me.com">carlobloks@me.com</a>

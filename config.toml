@@ -1,8 +1,0 @@
-baseURL = "https://eager-mcnulty-503010.netlify.app/"
-languageCode = "en-us"
-title = "Carlo Bloks"
-theme = "papermod"
-env = "production"
-defaultTheme = "dark"
-ShowShareButtons = "true"
-displayFullLangName = "true"
