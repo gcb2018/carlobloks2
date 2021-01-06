@@ -5,8 +5,6 @@ theme: papermod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-# googleAnalytics: UA-123-45
-
 minify:
     disableXML: true
     # minifyOutput: true
@@ -32,9 +30,9 @@ outputs:
 
 params:
     env: production
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "This is my personal website. I'll share some of my interest as well as what I am currently working on. Feel free to reach out 🚀"
     # author: ["Me", "You"] # multiple authors
-    ShowReadingTime: true
+    ShowReadingTime: false
     defaultTheme: dark
     ShowShareButtons: false
     displayFullLangName: true
@@ -44,7 +42,7 @@ params:
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: Carlo Bloks
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -67,6 +65,8 @@ params:
           url: "https://www.linkedin.com/in/carlobloks"
         - name: github
           url: "https://github.com/gcb2018/"
+        - name: other
+          url: "/resume/"
 
 taxonomies:
     category: categories
