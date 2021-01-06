@@ -23,7 +23,7 @@ We implement and optimize the entire Adobe suite and enable the countries in ach
 
 ### Skills & Tools & Interests
 
-Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / RetroPie / Abstract / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Atomic / Google & Adobe Analytics / Crashlytics / iTunes Connect / Home Automation / YAML / Raspberry Pi / Home Assistant / Workflow Productivity / Slack / Teams / IoT / Jekyll / Netlify / HUGO / Visual Studio Code
+Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / RetroPie / Abstract / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Atomic / Google & Adobe Analytics / Twilio / Wordpress  / InVision / Lottie / Ryte / Crashlytics / iTunes Connect / Home Automation / YAML / Raspberry Pi / Home Assistant / Workflow Productivity / Slack / Teams / IoT / Jekyll / Netlify / HUGO / Visual Studio Code
 
 ### Download
 - [Resume in PDF](/docs/CV_Carlo_Bloks.pdf) 
