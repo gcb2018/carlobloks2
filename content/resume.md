@@ -7,11 +7,7 @@ ShowToc: true
 ---
 ## Digital Product Owner / Product Manager
 
-<div id="webaddress">
-<a href="mailto:carlobloks@me.com">carlobloks@me.com</a>
-| <a href="https://www.linkedin.com/in/carlobloks/">LinkedIn</a> | <a href="tel:+31614873993">+31614873993</a>
-</div>
-
+[carlobloks@me.com](mailto:carlobloks@me.com) | [LinkedIn](https://www.linkedin.com/in/carlobloks/) | [+31614873993](tel:+31614873993)
 
 ### Currently
 
@@ -26,11 +22,11 @@ We implement and optimize the entire Adobe suite and enable the countries in ach
 
 ### Skills & Tools & Interests
 
-Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / Abstract / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Atomic / Google & Adobe Analytics / Crashlytics / iTunes Connect / Home Automation / YAML / Raspberry Pi / Home Assistant / Workflow Productivity / Slack / Teams / IoT / Jekyll / Visual Studio Code
+Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / RetroPie / Abstract / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Atomic / Google & Adobe Analytics / Crashlytics / iTunes Connect / Home Automation / YAML / Raspberry Pi / Home Assistant / Workflow Productivity / Slack / Teams / IoT / Jekyll / Netlify / HUGO / Visual Studio Code
 
 ### Download
-- [Resume in PDF](/CV_Carlo_Bloks.pdf) 
-- [Resume in DOCX](/CV_Carlo_Bloks.docx) 
+- [Resume in PDF](/docs/CV_Carlo_Bloks.pdf) 
+- [Resume in DOCX](/docs/CV_Carlo_Bloks.docx) 
 
 ### Work together?
 

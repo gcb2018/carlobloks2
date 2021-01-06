@@ -31,7 +31,7 @@ If you tried all the above and it's clear there is something going on then we ca
     * Browser & Operating System
     * Expected vs Received result
     * Screenshots
-    * [Share a HAR-file](/assets/docs/har_file.pdf) 
+    * [Share a HAR-file](/docs/har_file.pdf) 
 * is filed in the proper system (e.g. Jira/Slack) 
 * follows the agreed upon bug report-structure of the organization
 * is assigned to the proper colleague
