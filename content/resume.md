@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+description: Check out what I currently do and what interests me... 
 tags: ["resume", "cv"]
 ShowToc: true
 ---
