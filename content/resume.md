@@ -29,8 +29,8 @@ We implement and optimize the entire Adobe suite and enable the countries in ach
 Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / Abstract / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Atomic / Google & Adobe Analytics / Crashlytics / iTunes Connect / Home Automation / YAML / Raspberry Pi / Home Assistant / Workflow Productivity / Slack / Teams / IoT / Jekyll / Visual Studio Code
 
 ### Download
-- [Resume in PDF](/assets/docs/CV_Carlo_Bloks.pdf) 
-- [Resume in DOCX](/assets/docs/CV_Carlo_Bloks.docx) 
+- [Resume in PDF](/CV_Carlo_Bloks.pdf) 
+- [Resume in DOCX](/CV_Carlo_Bloks.docx) 
 
 ### Work together?
 
