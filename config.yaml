@@ -38,7 +38,7 @@ params:
     defaultTheme: dark
     ShowShareButtons: false
     displayFullLangName: true
-    # images: ""
+    images: ["/opengraph.png"]
     # assets:
     #   favicon: '<path / external url>'
 
