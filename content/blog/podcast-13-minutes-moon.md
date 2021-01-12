@@ -12,4 +12,4 @@ In the first 10 episodes you hear snippets of the last 13 minutes of the convers
 
 You can check it out on your favourite [Podcast App](https://podcasts.apple.com/us/podcast/13-minutes-to-the-moon/id1459657136)
 
-![test](/images/13_min_moon.jpeg)
+![13-min-moon-cover](/images/13_min_moon.jpeg)
