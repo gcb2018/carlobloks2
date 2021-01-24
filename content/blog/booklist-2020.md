@@ -7,9 +7,9 @@ tags: ["books", "tips"]
 ShowToc: false
 ---
 ## Books I have read this year or are still on my todo-list
-* Measure What Matters / John Doerr ✓
-* Inspired: How to Create Tech Products Customers Love / Marty Cagan ❌ (will have to try on 2021)
-* The Subtle Art of Not Giving a F*ck / Mark Manson ✓
-* The Power of Habit / Chalres Dunigg ✓
-* The Magic of Thinking Big / David Schwartz ❌ (will have to try on 2021)
-* The Lean Startup / Eric Ries ✓
+* Measure What Matters / John Doerr - ✅
+* Inspired: How to Create Tech Products Customers Love / Marty Cagan - ❌ (will have to try on 2021)
+* The Subtle Art of Not Giving a F*ck / Mark Manson - ✅
+* The Power of Habit / Chalres Dunigg - ✅
+* The Magic of Thinking Big / David Schwartz - ❌ (will have to try on 2021)
+* The Lean Startup / Eric Ries - ✅
