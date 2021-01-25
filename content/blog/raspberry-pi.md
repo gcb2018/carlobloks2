@@ -7,7 +7,7 @@ description: This awesome little computer is way more powerful than you might th
 tags: ["raspberry", "pi", "tips"]
 ShowToc: false
 ---
-![Image for post](https://miro.medium.com/max/1376/0*UfAb8SPhpUSHXnEy.png)
+![Image for post](/images/raspberrypi.png)
 
 ## What is the Raspberry Pi?
 
