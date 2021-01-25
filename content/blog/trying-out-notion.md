@@ -16,5 +16,5 @@ I have been playing around with it for a bit already and there are truly loads o
 
 For my workflow I hope it will eventually replace the following apps: Notes / IA Writer / Things3 / MS To Do / Safari Reading List / Wishlists / Saved articles on Reddit / Watch later's on YT
 
-Let's see how that turns out 🤞
+Let's see how that turns out 🤙🏼
 
