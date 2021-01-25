@@ -6,7 +6,7 @@ description: The 2017 Holiday Gift guide...
 tags: ["Gift", "2017"]
 ShowToc: false
 ---
-
+![Image for post](/images/giftguide2017.jpg)
 ## Looking for a gift for one of your ‘semi-nerdy’ family members or friends? Or maybe even your spouse. Consider any of these gifts below.
 
 ### 5\. RFXcom
