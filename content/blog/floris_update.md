@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Honk - a new fun messaging app"
+title:  "FLORIS"
 date:   2021-01-12 08:59:22 +0200
 description: Honk is the all-new way to chat with your friends in real time, with messages shown live as you type... 
 tags: ["apps", "tips"]
 ShowToc: false
-Draft: true
 ---
 ## Honk.me
 
