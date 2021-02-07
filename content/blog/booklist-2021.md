@@ -7,10 +7,18 @@ tags: ["books", "tips"]
 ShowToc: false
 ---
 ## Books I have read this year or are still on my todo-list
+January
 * (re-read) The 4-hour workweek / Tim Ferriss - ✅
 * A Promised Land / Barack Obama - 📖
-* Inspired: How to Create Tech Products Customers Love / Marty Cagan
 * The Magic of Thinking Big / David Schwartz - ✅
+* No Excuses!: The Power of self-discipline for success in your life / Brian Tracy - ✅
+* Unfu*k Yourself / Gary John Bishbop - ✅
+
+February
+* How to Change Your Mind / Michael Pollan - 📖
+
+Not started
+* Inspired: How to Create Tech Products Customers Love / Marty Cagan
 * Joy at Work / Marie Kondo
 * Designing Your Work Life / Bill Burnett
 * Drive / Daniel H. Pink
