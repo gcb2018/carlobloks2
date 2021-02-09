@@ -16,4 +16,4 @@ What's interesting is that these HomePods are actually tiny, like soft-ball tiny
 
 They are currently out of stock but I definitely plan on getting more for upstairs (2x bedrooms, office and perhaps even the bathroom) for a true multi-room listening experience.
 
-You can get them [here](https://www.cyberport.de/tools/search-results.html?autosuggest=true&q=Apple+HomePod+mini+spacegrau) or [here](https://www.gravis.de/Katalog/Apple-Produkte/Apple-HomePod/Apple-HomePod-mini-Lautsprecher-space-grau/p/140825) if you are lucky.
+You can get them at [Cyberport](https://www.cyberport.de/tools/search-results.html?autosuggest=true&q=Apple+HomePod+mini+spacegrau), [Gravis](https://www.gravis.de/Katalog/Apple-Produkte/Apple-HomePod/Apple-HomePod-mini-Lautsprecher-space-grau/p/140825) or [fnac](https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search=homepod+mini&sft=1&sa=1) if you are lucky.
