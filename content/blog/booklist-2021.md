@@ -15,7 +15,7 @@ January
 * Unfu*k Yourself / Gary John Bishbop - ✅
 
 February
-* How to Change Your Mind / Michael Pollan - 📖
+* How to Change Your Mind / Michael Pollan - ✅
 
 Not started
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
