@@ -16,6 +16,7 @@ January
 
 February
 * How to Change Your Mind / Michael Pollan - ✅
+* The First 20 Hours / josh Kaufman - 📖 
 
 Not started
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
