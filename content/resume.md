@@ -32,4 +32,4 @@ Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia 
 
 ### Work together?
 
-Curious about working together or have a (micro-) job you need to get done? <a href="https://www.upwork.com/freelancers/~015c33f276db52a739">Just let me know!</a>
+Curious about working together or have a (micro-) job you need to get done? [Just let me know!](mailto:carlobloks@me.com)

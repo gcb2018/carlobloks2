@@ -15,8 +15,8 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Contact
-                  url: contact/
+                - name: About Me
+                  url: about/
                   weight: 5
                 - name: Resume
                   url: resume/
