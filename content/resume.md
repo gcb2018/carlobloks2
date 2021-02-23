@@ -28,6 +28,7 @@ Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia 
 ### Download
 - [Resume in PDF](/docs/CV_Carlo_Bloks.pdf) 
 - [Resume in DOCX](/docs/CV_Carlo_Bloks.docx) 
+- [Resume in Pages](/docs/CV_Carlo_Bloks.pages) 
 
 ### Work together?
 
