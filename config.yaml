@@ -1,6 +1,6 @@
 baseURL: "https://www.carlobloks.com/"
 title: Carlo Bloks 😎
-paginate: 8
+paginate: 5
 theme: papermod
 enableInlineShortcodes: true
 enableRobotsTXT: true
