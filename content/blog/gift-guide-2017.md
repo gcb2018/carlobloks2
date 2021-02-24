@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gift Guide for the 2017 Holidays — Tech edition"
-date:   2016-12-25 08:59:22 +0200
+date:   2017-12-25 08:59:22 +0200
 description: The 2017 Holiday Gift guide... 
 tags: ["Gift", "2017"]
 ShowToc: false
