@@ -10,6 +10,8 @@ ShowToc: true
 
 [carlobloks@me.com](mailto:carlobloks@me.com) | [LinkedIn](https://www.linkedin.com/in/carlobloks/) | [+31614873993](tel:+31614873993)
 
+Curious what others [say about me](/kind-words/)?
+
 ### Currently
 
 European Product Owner of the Optimization team at Allianz Direct. Living in Rotterdam (NL) and pre-Corona working in Munich (DE) travelling to Munich every week. Of course during Corona we work 100% distributed/remote.
