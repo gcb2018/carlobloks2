@@ -21,7 +21,9 @@ languages:
                 - name: Resume
                   url: resume/
                   weight: 10
-
+                - name: Booklist
+                  url: blog/booklist-2021/
+                  weight: 15
 outputs:
     home:
         - HTML
