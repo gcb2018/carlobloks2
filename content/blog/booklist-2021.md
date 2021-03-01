@@ -17,7 +17,8 @@ January
 February
 * How to Change Your Mind / Michael Pollan - ✅
 * The First 20 Hours / Josh Kaufman - ✅
-* Start with Why / Simon Sinek - 📖
+* Start with Why / Simon Sinek - ✅
+* Leaders Eat Last / Simon Sinek - 📖
 
 Not started
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
