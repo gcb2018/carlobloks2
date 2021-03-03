@@ -20,7 +20,8 @@ ShowToc: false
 * Start with Why / Simon Sinek - ✅
 
 ### March
-* Leaders Eat Last / Simon Sinek - 📖
+* Leaders Eat Last / Simon Sinek - ✅
+* (re-read) 7 Principles For Making Marriage Work / John M. Gottman - 📖
 
 ### Not started
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
