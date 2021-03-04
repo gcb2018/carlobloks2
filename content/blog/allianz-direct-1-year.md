@@ -6,4 +6,4 @@ categories: update
 ---
 Checkout the Story of Allianz Direct. In the first year we launched the new brand in NL & DE. One harmonized customer experience built on top of cutting edge technology to ensure we are the most efficient insurer. 
 
-[![Allianz Direct 1 Year](http://img.youtube.com/vi/8YxSMtpo7oo/0.jpg)](http://www.youtube.com/watch?v=8YxSMtpo7oo "Allianz Direct 1 Year")
+[![Allianz Direct 1 Year](https://img.youtube.com/vi/8YxSMtpo7oo/0.jpg)](https://www.youtube.com/watch?v=8YxSMtpo7oo "Allianz Direct 1 Year")
