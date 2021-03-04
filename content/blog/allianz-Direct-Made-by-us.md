@@ -6,12 +6,4 @@ categories: update
 ---
 Together with the experts we are developing brand new digital experiences with the latest technologies and insights. Introducing -> Allianz Direct. We are reimagining the insurance business.
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/y04kRX7R9hI"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![Allianz Direct - Made by us](http://img.youtube.com/vi/y04kRX7R9hI/0.jpg)](http://www.youtube.com/watch?v=y04kRX7R9hI "Allianz Direct - Made by us")
