@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What others say about me
-permalink: /kind-words/
+permalink: /testimonials/
 description: Check out what the awesome colleagues I worked with say about me... 
 tags: ["resume", "cv", "recommend"]
 ShowToc: false

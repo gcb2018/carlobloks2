@@ -20,6 +20,6 @@ Of course you have to start from a solid plan, but I am someone who wants to get
 
 That is why I like to work with what I call 'makers'. Colleagues who can deliver themselves, who don't sly away from picking up new things and are also eager to learning something new. Trying out a lot of things and quickly finding out what works and what doesn't. I truly enjoy being a part of that process.
 
-Curious what others [say about me](/kind-words/)?
+Curious what others [say about me](/testimonials/)?
 
 Feel free to get in touch and [drop me a line](mailto:carlobloks@me.com).

@@ -10,7 +10,7 @@ ShowToc: true
 
 [carlobloks@me.com](mailto:carlobloks@me.com) | [LinkedIn](https://www.linkedin.com/in/carlobloks/) | [+31614873993](tel:+31614873993)
 
-Curious what others [say about me](/kind-words/)?
+Curious what others [say about me](/testimonials/)?
 
 ### Currently
 
