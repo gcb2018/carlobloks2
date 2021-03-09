@@ -40,7 +40,8 @@
 .theme-toggle svg {
     height: 18px;
     user-select: none;
-    cursor: pointer
+    cursor: pointer;
+    display: none
 }
 
 body.dark #moon {

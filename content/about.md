@@ -23,3 +23,19 @@ That is why I like to work with what I call 'makers'. Colleagues who can deliver
 Curious what others [say about me](/testimonials/)?
 
 Feel free to get in touch and [drop me a line](mailto:carlobloks@me.com).
+
+{{< rawhtml >}}
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvpngvd" method="post">
+  <fieldset id="fs-frm-inputs">
+    <!-- <label for="full-name">Full Name</label> -->
+    <input type="text" name="name" id="full-name" placeholder="First and Last Name" required="true">
+    <!-- <label for="email-address">Email Address</label> --> 
+    <input type="email" name="_replyto" id="email-address" placeholder="Email Address" required="true">
+    <!-- <label for="message">Message</label> -->
+    <textarea rows="5" name="message" id="message" placeholder="Your message..." required="true"></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="text" name="_gotcha" style="display:none" />
+  </fieldset>
+  <input type="submit" value="Submit">
+</form>
+{{< /rawhtml >}}
