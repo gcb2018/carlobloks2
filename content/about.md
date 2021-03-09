@@ -3,9 +3,11 @@ layout: page
 title: About
 permalink: /about/
 tags: ["contact", "email", "about"]
-ShowToc: false
+ShowToc: true
+TocOpen: true
 ---
 
+### About me
 From early on I have been curious and wanting to understand how things work and why. Always eager to learn new things and taking things apart to see the inside and if I can get it to work again. 
 
 I have a lot of experience with innovation projects and Agile development, both in websites and mobile & web applications. I'm a true 'digital native' and have experience with every single touchpoint of the user. I can help answer questions like:
@@ -22,7 +24,8 @@ That is why I like to work with what I call 'makers'. Colleagues who can deliver
 
 Curious what others [say about me](/testimonials/)?
 
-Feel free to get in touch and [drop me a line](mailto:carlobloks@me.com).
+### Get in touch
+Feel free to get in touch and drop me a line in the form below.
 
 {{< rawhtml >}}
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvpngvd" method="post">
@@ -33,9 +36,9 @@ Feel free to get in touch and [drop me a line](mailto:carlobloks@me.com).
     <input type="email" name="_replyto" id="email-address" placeholder="Email Address" required="true">
     <!-- <label for="message">Message</label> -->
     <textarea rows="5" name="message" id="message" placeholder="Your message..." required="true"></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form - About">
     <input type="text" name="_gotcha" style="display:none" />
   </fieldset>
-  <input type="submit" value="Submit">
+  <input class="submit" type="submit" value="Submit">
 </form>
 {{< /rawhtml >}}

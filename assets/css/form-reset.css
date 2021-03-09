@@ -20,7 +20,7 @@ form label,
 }
 form label,
 form legend {
-  font-size: 0.825rem;
+  font-size: 1rem;
   margin-bottom: 0.5rem;
 }
 /* border, padding, margin, width */
@@ -29,8 +29,9 @@ form select,
 form textarea,
 .StripeElement {
   box-sizing: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 4px;
+  border: 1px solid var(--tertiary);
+  background-color: #3B4451;
   padding: 0.75em 1rem;
   margin-bottom: 1.5rem;
 }
@@ -38,7 +39,7 @@ form input:focus,
 form select:focus,
 form textarea:focus,
 .StripeElement:focus {
-  background-color: white;
+  background-color: #3B4451;
   outline-style: solid;
   outline-width: thin;
   outline-color: gray;
@@ -66,4 +67,11 @@ form [type="reset"]:focus {
 
 form select {
   text-transform: none;
+}
+
+.submit {
+    background: rgba(100, 128, 250);
+    color: rgba(252, 253, 255);
+    border-radius: 4px;
+    border: 1px solid var(--tertiary);
 }

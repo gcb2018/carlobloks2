@@ -5,8 +5,9 @@ permalink: /resume/
 description: Check out what I currently do and what interests me... 
 tags: ["resume", "cv"]
 ShowToc: true
+TocOpen: true
 ---
-## Digital Product Owner / Product Manager
+## Digital Product Owner / Digital Experience Manager
 
 [carlobloks@me.com](mailto:carlobloks@me.com) | [LinkedIn](https://www.linkedin.com/in/carlobloks/) | [+31614873993](tel:+31614873993)
 
@@ -32,6 +33,22 @@ Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia 
 - [Resume in DOCX](/docs/CV_Carlo_Bloks.docx) 
 - [Resume in Pages](/docs/CV_Carlo_Bloks.pages) 
 
-### Work together?
+### Work together? Get in touch!
 
-Curious about working together or have a (micro-) job you need to get done? [Just let me know!](mailto:carlobloks@me.com)
+Curious about working together or have a (micro-) job you need to get done? Feel free to get in touch and drop me a line in the form below.
+
+{{< rawhtml >}}
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvpngvd" method="post">
+  <fieldset id="fs-frm-inputs">
+    <!-- <label for="full-name">Full Name</label> -->
+    <input type="text" name="name" id="full-name" placeholder="First and Last Name" required="true">
+    <!-- <label for="email-address">Email Address</label> --> 
+    <input type="email" name="_replyto" id="email-address" placeholder="Email Address" required="true">
+    <!-- <label for="message">Message</label> -->
+    <textarea rows="5" name="message" id="message" placeholder="Your message..." required="true"></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form - About">
+    <input type="text" name="_gotcha" style="display:none" />
+  </fieldset>
+  <input class="submit" type="submit" value="Submit">
+</form>
+{{< /rawhtml >}}
