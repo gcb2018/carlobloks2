@@ -46,7 +46,7 @@ Curious about working together or have a (micro-) job you need to get done? Feel
     <input type="email" name="_replyto" id="email-address" placeholder="Email Address" required="true">
     <!-- <label for="message">Message</label> -->
     <textarea rows="5" name="message" id="message" placeholder="Your message..." required="true"></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form - About">
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form - Resume">
     <input type="text" name="_gotcha" style="display:none" />
   </fieldset>
   <input class="submit" type="submit" value="Submit">
