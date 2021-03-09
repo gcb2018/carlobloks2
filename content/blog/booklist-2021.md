@@ -21,7 +21,8 @@ ShowToc: false
 
 ### March
 * Leaders Eat Last / Simon Sinek - ✅
-* (re-read) 7 Principles For Making Marriage Work / John M. Gottman - 📖
+* (re-read) 7 Principles For Making Marriage Work / John M. Gottman - ✅
+* Find your Why / Simon Sinek - 📖
 
 ### Not started
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
