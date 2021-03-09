@@ -20,7 +20,7 @@ Ideas often start small and people are always very good at turning those ideas i
 
 Of course you have to start with a solid plan, but I am someone who wants to get started quickly. I don't like to waste time in endless meetings and creating plans on paper only. My goal is to quickly try something out, analyze it and get to work. If it doesn't work we scrap it and we have learned a valuable lesson in a short time period. If it does work: great, now improve! 
 
-That is why I like to work with what I call 'makers'. Colleagues who can deliver themselves, who don't sly away from picking up new things and are also eager to learning something new. Trying out a lot of things and quickly finding out what works and what doesn't. I truly enjoy being a part of that process.
+That is why I like to work with what I call '_makers_'. Colleagues who can deliver themselves, who don't sly away from picking up new things and are also eager to learning something new. Trying out a lot of things and quickly finding out what works and what doesn't. I truly enjoy being a part of that process.
 
 Curious what others [say about me](/testimonials/)?
 
@@ -28,7 +28,7 @@ Curious what others [say about me](/testimonials/)?
 Feel free to get in touch and drop me a line in the form below.
 
 {{< rawhtml >}}
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvpngvd" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvpngol" method="post">
   <fieldset id="fs-frm-inputs">
     <!-- <label for="full-name">Full Name</label> -->
     <input type="text" name="name" id="full-name" placeholder="First and Last Name" required="true">
