@@ -13,20 +13,34 @@ TocOpen: true
 
 Curious what others [say about me](/testimonials/)?
 
-### Currently
+As a Digital Product Owner I have a 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level. 
 
-European Product Owner of the Optimization team at Allianz Direct. Living in Rotterdam (NL) and pre-Corona working in Munich (DE) travelling to Munich every week. Of course during Corona we work 100% distributed/remote.
+I have a thorough understanding of the digital landscape - both technical & commercial - and my curiosity drives me to keep seeking continuously for opportunities that optimise and improve UI / UX and online sales as well as developing the most intuitive digital experiences.
 
-### Specialized in
+### How I work
 
-Together with the experts in my team we shape the digital landscape of all operating entities within Allianz Direct. We are developing brand new digital experiences with the latest technologies and insights. From the website UX to the brand voice. From all documents to the omnichannel customer communication. From Tracking & Analytics to the Audience Manager and Experience Manager.
-We implement and optimize the entire Adobe suite and enable the countries in achieving their goals.
+As you can read in the [About Me section](/about/) of this website I have the _"sheer desire to get ahead, solve problems and improve everyday"_. This you can clearly see in how I work as a Product Owner. 
+
+I truly own the topic/product/journey end-2-end. It starts with knowing the relevant data and checking the dashboards/data daily. All the way to making sure we build & improve (e.g. with A/B-testing, UX Research) incrementally and monitoring the production assets.
+
+I also like to describe myself as a Technical PO as I am used to diving into the different tools myself. For instance, in case of an incident I will be opening up the monitoring & logging tools to see how we can solve the incident for the users. On the other hand I I feel it's truly necessary for a PO to understand the tools the experts in the team work with to make sure I understand the possibilities and limitations. 
+
+### At my last job
+
+Together with the experts in my team we have shaped the digital landscape of all operating entities within Allianz Direct. We have developed brand new digital experiences with the latest technologies and insights.
+
+I was responsible for building and improving the website and the sales-funnels, including the external integrations.
+
+From the website UX to the brand voice. From all documents to the omni-channel customer communication. From tracking & analytics to the DMP and Experience Manager.
+We implemented and optimized the entire Adobe suite and enable the countries in achieving their goals.
+
+As you can see quite a broad set of topics 🚀
 
 --- 
 
 ### Skills & Tools & Interests
 
-Github / Jenkins / ELK / Kafka Operatr / Grafana / Sketch / Adobe CC / Magnolia / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / RetroPie / Abstract / Postman / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Atomic / Google & Adobe Analytics / Twilio / Wordpress  / InVision / Lottie / Ryte / Crashlytics / iTunes Connect / Home Automation / YAML / Raspberry Pi / Home Assistant / Workflow Productivity / Notion / Slack / Teams / IoT / Jekyll / Netlify / HUGO / Visual Studio Code
+Github / Jenkins / Kibana / Kafka Operatr / Grafana / Sketch / Adobe CC / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / RetroPie / Abstract / Postman / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Figma / Google & Adobe Analytics / Twilio / Wordpress  / Whimsical / Lottie / Ryte / Crashlytics / iTunes Connect / Home Automation / Raspberry Pi / Home Assistant / Workflow Productivity / Notion / Slack / Teams / IoT / Jekyll / Netlify / HUGO / Visual Studio Code
 
 ### Download
 - [Resume in PDF](/docs/CV_Carlo_Bloks.pdf) 
