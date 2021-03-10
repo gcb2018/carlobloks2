@@ -63,6 +63,6 @@ Curious about working together or have a (micro-) job you need to get done? Feel
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form - Resume">
     <input type="text" name="_gotcha" style="display:none" />
   </fieldset>
-  <input class="submit" type="submit" value="Submit">
+  <input class="submit" type="submit" value="Submit 👉">
 </form>
 {{< /rawhtml >}}

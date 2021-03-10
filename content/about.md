@@ -45,6 +45,6 @@ Feel free to get in touch and drop me a line in the form below.
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form - About">
     <input type="text" name="_gotcha" style="display:none" />
   </fieldset>
-  <input class="submit" type="submit" value="Submit">
+  <input class="submit" type="submit" value="Submit 👉">
 </form>
 {{< /rawhtml >}}
