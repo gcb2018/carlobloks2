@@ -22,11 +22,12 @@ ShowToc: false
 ### March
 * Leaders Eat Last / Simon Sinek - ✅
 * (re-read) 7 Principles For Making Marriage Work / John M. Gottman - ✅
-* Find your Why / Simon Sinek - 📖
+* Find your Why / Simon Sinek - ✅
+* Drive / Daniel H. Pink - 📖
 
 ### Not started
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
 * Joy at Work / Marie Kondo
 * Designing Your Work Life / Bill Burnett
-* Drive / Daniel H. Pink
+
 * 5 Dysfunctions of a Team / Patrick Lencioni
