@@ -5,7 +5,7 @@ theme: papermod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-googleAnalytics: G-KDP1X56H2K
+googleAnalytics: UA-191704601-1
 
 minify:
     disableXML: true
