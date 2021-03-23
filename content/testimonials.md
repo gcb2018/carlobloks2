@@ -18,6 +18,13 @@ Senior Software Developer at Allianz Global Digital Factory
 
 ---
 
+### Des Field Corbett
+CIO Allianz Direct
+
+>_"At Allianz Direct Carlo was able to bring a diverse group of technical and non technical people together in a high performing cohesive team. He did this by being the kind of guy you love working beside and inspiring others to be the same."_
+
+---
+
 ### Konstantin Riedel
 Product Owner Digital Marketing Technology | Tribe Lead MarTech & Customer Communication @ Allianz Direct
 
