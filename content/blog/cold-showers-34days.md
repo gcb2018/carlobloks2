@@ -13,13 +13,13 @@ The science is [not really conclusive](https://www.volkskrant.nl/cultuur-media/a
 
 Perhaps I am just going to try it to see if I can 'conquer this challenge'. And if - on top of that - I feel better that would be really awesome.. 🤞
 
-| Date | Length | Done |
-|:--|:--|:--|
-| 28/3 | 30sec  | ✅ |
-| 29/3 | 30sec | ✅ |
-| 30/3 | 30sec | ✅ |
-| 31/3 | 30sec | ✅ |
-| 1/4 | 30sec | ✅ |
+| Date | Length | Done | Experience |
+|:--|:--|:--|:--|
+| 28/3 | 30sec  | ✅ | Not nice |
+| 29/3 | 30sec | ✅ | Not nice |
+| 30/3 | 30sec | ✅ | A bit better |
+| 31/3 | 30sec | ✅ | Surprisingly bad |
+| 1/4 | 30sec | ✅ | Better again |
 | 2/4 |  |  |
 | 3/4 |  |  |
 | 4/4 |  |  |
