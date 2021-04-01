@@ -18,8 +18,8 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 28/3 | 30sec  | ✅ |
 | 29/3 | 30sec | ✅ |
 | 30/3 | 30sec | ✅ |
-| 31/3 |  |  |
-| 1/4 |  |  |
+| 31/3 | 30sec | ✅ |
+| 1/4 | 30sec | ✅ |
 | 2/4 |  |  |
 | 3/4 |  |  |
 | 4/4 |  |  |
