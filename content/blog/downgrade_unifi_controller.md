@@ -3,7 +3,14 @@ layout: post
 title:  "Downgrade Unifi Controller from 6.0.xx to 5.14.23"
 date:   2020-12-10 21:27:22 +0200
 categories: update
+description: Be aware of what you lose before you upgrade to 6.x
+tags: ["unifi", "tips"]
+ShowToc: false
+draft: false
 ---
+
+> UPDATE 2/4/2021: I adjusted my configuration so that upgrading to 6.x would not cause any issues anymore. Read more on how to [upgrade the Unifi Controller](/blog/upgrade_unifi_controller/) manually on your Raspberry Pi
+
 ## Please don't update your Unifi controller to 6.0.xx
  
 You will lose a couple great features that might mess up your network. Especially if you used the setup guide by [The Hook Up](https://www.youtube.com/watch?v=p3SfeQTaaxw). Think your VLAN settings for your WLAN and WLAN override configurations.
