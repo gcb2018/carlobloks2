@@ -20,11 +20,11 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 30/3 | 30sec | ✅ | A bit better |
 | 31/3 | 30sec | ✅ | Surprisingly bad |
 | 1/4 | 30sec | ✅ | Better again |
-| 2/4 |  |  |
-| 3/4 |  |  |
-| 4/4 |  |  |
-| 5/4 |  |  |
-| 6/4 |  |  |
+| 2/4 | 30sec | ✅ | Sauna - cold baths |
+| 3/4 | 30sec | ✅ | Ok-ish |
+| 4/4 | 30sec | ✅ | Not nice, super cold water due to the weather |
+| 5/4 | 30sec | ✅ | Ok-ish, super cold water due to the weather |
+| 6/4 | 30sec | ✅ | Still super cold, but really nice after |
 | 7/4 |  |  |
 | 8/4 |  |  |
 | 9/4 |  |  |
