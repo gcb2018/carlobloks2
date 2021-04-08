@@ -26,7 +26,7 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 5/4 | 30sec | ✅ | Ok-ish, super cold water due to the weather |
 | 6/4 | 30sec | ✅ | Still super cold, but really nice after |
 | 7/4 | 1min | ✅ | First time 1min, quite cold but felt great afterwards |
-| 8/4 |  |  |
+| 8/4 | 1min | ✅ | Rough, super cold on my head, great afterwards |
 | 9/4 |  |  |
 | 10/4 |  |  |
 | 11/4 |  |  |
