@@ -27,7 +27,7 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 6/4 | 30sec | ✅ | Still super cold, but really nice after |
 | 7/4 | 1min | ✅ | First time 1min, quite cold but felt great afterwards |
 | 8/4 | 1min | ✅ | Rough, super cold on my head, great afterwards |
-| 9/4 |  |  |
+| 9/4 | 1min | ✅ | Rough, super cold on my head, great afterwards |
 | 10/4 |  |  |
 | 11/4 |  |  |
 | 12/4 |  |  |
@@ -50,4 +50,4 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 29/4 |  |  |
 | 30/4 |  |  |
 
-_Last updated: 6/4/21_
+_Last updated: 9/4/21_
