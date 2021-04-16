@@ -31,10 +31,10 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 10/4 | 1min | ✅ | Ok-ish, did not cool my head |
 | 11/4 | 1min | ✅ | Ok-ish, started with my head but when it got too cold I proceeded with body only |
 | 12/4 | 1min | ✅ | Better, did not cool my head |
-| 13/4 |  |  |
-| 14/4 |  |  |
-| 15/4 |  |  |
-| 16/4 |  |  |
+| 13/4 | 1min | ✅ | Better, did not cool my head |
+| 14/4 | 1min | ✅ | Better, full monty |
+| 15/4 | 1min | ✅ | Better, full monty |
+| 16/4 | 1min | ✅ | Quite ok, did not cool my head |
 | 17/4 |  |  |
 | 18/4 |  |  |
 | 19/4 |  |  |
@@ -50,4 +50,4 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 29/4 |  |  |
 | 30/4 |  |  |
 
-_Last updated: 12/4/21_
+_Last updated: 16/4/21_
