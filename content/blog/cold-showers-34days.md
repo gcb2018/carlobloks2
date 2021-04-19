@@ -35,9 +35,9 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 14/4 | 1min | ✅ | Better, full monty |
 | 15/4 | 1min | ✅ | Better, full monty |
 | 16/4 | 1min | ✅ | Quite ok, did not cool my head |
-| 17/4 |  |  |
-| 18/4 |  |  |
-| 19/4 |  |  |
+| 17/4 | 1min | ✅ | Quite ok, did not cool my head |
+| 18/4 | 1min | ✅ | Felt good, full monty |
+| 19/4 | 1min | ✅ | Felt good, did not cool my head |
 | 20/4 |  |  |
 | 21/4 |  |  |
 | 22/4 |  |  |
