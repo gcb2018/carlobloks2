@@ -38,8 +38,8 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 17/4 | 1min | ✅ | Quite ok, did not cool my head |
 | 18/4 | 1min | ✅ | Felt good, full monty |
 | 19/4 | 1min | ✅ | Felt good, did not cool my head |
-| 20/4 |  |  |
-| 21/4 |  |  |
+| 20/4 | 1min | ✅ | Felt good, full monty |
+| 21/4 | 1min | ✅ | Felt good, full monty |
 | 22/4 |  |  |
 | 23/4 |  |  |
 | 24/4 |  |  |
