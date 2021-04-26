@@ -32,7 +32,7 @@ ShowToc: false
 * Waking Up / Sam Haris - ✅
 * I Will Teach You To Be Rich / Ramit Sethi - ✅
 
-### Not started
+### To be read
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
 * Joy at Work / Marie Kondo
 * Designing Your Work Life / Bill Burnett
