@@ -44,10 +44,10 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 23/4 | 1min | ✅ | Felt good, full monty |
 | 24/4 | 1min | ✅ | Felt good, full monty |
 | 25/4 | 1min | ✅ | Felt good, did not cool my head |
-| 26/4 |  |  |
-| 27/4 |  |  |
-| 28/4 |  |  |
+| 26/4 | 1min | ✅ | Felt good, full monty |
+| 27/4 | 1min | ✅ | Felt good, full monty |
+| 28/4 | 1min | ✅ | Felt good, did not cool my head |
 | 29/4 |  |  |
 | 30/4 |  |  |
 
-_Last updated: 26/4/21_
+_Last updated: 28/4/21_
