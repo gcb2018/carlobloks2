@@ -7,6 +7,7 @@ tags: ["books", "tips"]
 ShowToc: false
 ---
 ## Books I have read this year or are still on my todo-list
+
 ### January
 * (re-read) The 4-hour workweek / Tim Ferriss - ✅
 * A Promised Land / Barack Obama - 📖
@@ -27,10 +28,13 @@ ShowToc: false
 
 ### April
 * Sapiens / Yuval Noah Harari - ✅
-* 12 Rules For Life / Jordan B. Peterson - ✅
-* The 5AM Club / Robin Sharma - ✅
-* Waking Up / Sam Haris - ✅
-* I Will Teach You To Be Rich / Ramit Sethi - ✅
+* 12 Rules For Life / Jordan B. Peterson - ✅ ⚡
+* The 5AM Club / Robin Sharma - ✅ ⚡
+* Waking Up / Sam Haris - ✅ ⚡
+* I Will Teach You To Be Rich / Ramit Sethi - ✅ ⚡
+* Good Strategy, Bad Strategy / Richard Rumelt - ✅ ⚡
+* The Consultant's Handbook - Samir Parikh - ✅ ⚡
+* (re-read) The 7 Habits of Highly Effective People / Stephen R. Covey - ✅ ⚡
 
 ### To be read
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
@@ -38,3 +42,5 @@ ShowToc: false
 * Designing Your Work Life / Bill Burnett
 
 * 5 Dysfunctions of a Team / Patrick Lencioni
+
+⚡ indicates it's read or listened to with the Blinkist-app
