@@ -47,7 +47,9 @@ Perhaps I am just going to try it to see if I can 'conquer this challenge'. And 
 | 26/4 | 1min | ✅ | Felt good, full monty |
 | 27/4 | 1min | ✅ | Felt good, full monty |
 | 28/4 | 1min | ✅ | Felt good, did not cool my head |
-| 29/4 |  |  |
-| 30/4 |  |  |
+| 29/4 | 1.5min | ✅ | Felt good, full monty
+| 30/4 | 1.5min | ✅ | Felt good, full monty
 
-_Last updated: 28/4/21_
+_Last updated: 3/5/21_
+
+SPOILER: As you can see in the above table this got easier and easier and it does indeed feel great. Not sure if there are any actual benefits but yes I will definitely continue doing this!
