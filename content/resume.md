@@ -23,7 +23,7 @@ As you can read in the [About Me section](/about/) of this website I have the _"
 
 I truly own the topic/product/journey end-2-end. It starts with knowing the relevant data and checking the dashboards/data daily. All the way to making sure we build & improve (e.g. with A/B-testing, UX Research) incrementally and monitoring the production assets.
 
-I also like to describe myself as a Technical PO as I am used to diving into the different tools myself. For instance, in case of an incident I will be opening up the monitoring & logging tools to see how we can solve the incident for the users. On the other hand I I feel it's truly necessary for a PO to understand the tools the experts in the team work with to make sure I understand the possibilities and limitations. 
+I also like to describe myself as a Technical PO as I am used to diving into the different tools myself. For instance, in case of an incident I will be opening up the monitoring & logging tools to see how we can solve the incident for the users. On the other hand I feel it's truly necessary for a PO to understand the tools the experts in the team work with to make sure I understand the possibilities and limitations. 
 
 ### At my last job
 
