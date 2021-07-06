@@ -49,8 +49,7 @@ ShowToc: false
 * Prodessional Troublemaker / Luvvie Ajayi Jones -  ✅ ⚡
 * The Life-Changing Magic of Tidying Up / Marie Kondo -  ✅ ⚡
 * The Talent Code / Daniel Coyle -  ✅ ⚡
-
-
+* How I Built This / Guy Raz - ✅
 
 ### To be read
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan
