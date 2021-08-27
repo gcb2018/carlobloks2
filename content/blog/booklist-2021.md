@@ -51,7 +51,26 @@ ShowToc: false
 * The Talent Code / Daniel Coyle -  ✅ ⚡
 * How I Built This / Guy Raz - ✅
 
+### July
+* First Things First / Stephen R. Covey - ✅ ⚡ 
+* The Peter Principle / Laurens J. Peter - ✅ ⚡ 
+* Millenial Money / Patrick O'Shaughnessy - ✅ ⚡ 
+* Playing with FIRE / Scott Rieckens - ✅ ⚡ 
+* Getting Real / Jason Fried - ✅ ⚡ 
+* ReWork / Jason Fried - ✅ ⚡ 
+* Remote / Jason Fried - ✅ ⚡ 
+* How Not to Worry / Paul McGee - ✅ ⚡
+
+### August
+* Jab, Jab, Jab, Right Hook / Gary Vaynerchuk - ✅ ⚡
+* Crushing it! / Gary Vaynerchuk - ✅  ⚡
+* King Leopold's Ghost / Adam Hochschild - ✅  ⚡
+* The Psychology of Money / Morgan Housel - ✅  ⚡
+* 21 Lessons for the 21st Century - ✅ ⚡ 
+* Inspired: How to Create Tech Products Customers Love / Marty Cagan - ✅ ⚡
+
 ### To be read
-* Inspired: How to Create Tech Products Customers Love / Marty Cagan
 * Joy at Work / Marie Kondo
 * Designing Your Work Life / Bill Burnett
+
+Curious what these ⚡ are? Or how I plow through so many books? There is no secret: I am using [Blinkist](https://www.blinkist.com) which is an awesome way to get the most important points/passages (Blinks) without all the fluff. Check it out for yourself (no affiliate).
