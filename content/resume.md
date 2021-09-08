@@ -19,13 +19,17 @@ I have a thorough understanding of the digital landscape - both technical & comm
 
 ### How I work
 
-As you can read in the [About Me section](/about/) of this website I have the _"sheer desire to get ahead, solve problems and improve everyday"_. This you can clearly see in how I work as a Product Owner. 
+As you can read in the [About Me section](/about/) I have the _"sheer desire to get ahead, solve problems and improve everyday"_. This you can clearly see in how I work as a Product Owner. 
 
-I truly own the topic/product/journey end-2-end. It starts with knowing the relevant data and checking the dashboards/data daily. All the way to making sure we build & improve (e.g. with A/B-testing, UX Research) incrementally and monitoring the production assets.
+I truly own the topic/product/journey end-2-end. It starts with knowing the relevant data and checking the dashboards/data daily. All the way to knowing all customer journeys and making sure we build & improve (e.g. with A/B-testing, UX Research) incrementally and monitoring the production assets.
 
 I also like to describe myself as a Technical PO as I am used to diving into the different tools myself. For instance, in case of an incident I will be opening up the monitoring & logging tools to see how we can solve the incident for the users. On the other hand I feel it's truly necessary for a PO to understand the tools the experts in the team work with to make sure I understand the possibilities and limitations. 
 
-### At my last job
+### At my current assignment
+
+Currently I am booked by Omron Healthcare. Without diving too deep into the details I am supporting Omron as a Product Owner in the further development and automation of their multi-country platform in SFCC/SFSC/SFMC as well as their omnichannel order management platform. Furthermore, I am fully involved in the automated E2E-tests setup as well as managing the Roadmap for the next 1-2 Qs to make sure the team works on the topics that deliver the most value to both users & business.
+
+### At my last assignment
 
 Together with the experts in my team we have shaped the digital landscape of all operating entities within Allianz Direct. We have developed brand new digital experiences with the latest technologies and insights.
 
@@ -48,6 +52,8 @@ Github / Jenkins / Kibana / Kafka Operatr / Grafana / Sketch / Adobe CC / Adobe 
 - [Resume in Pages](/docs/CV_Carlo_Bloks.pages) 
 
 ### Work together? Get in touch!
+
+*I am currentlt fully booked until the end of the year*
 
 Curious about working together or have a (micro-) job you need to get done? Feel free to get in touch and drop me a line in the form below.
 
