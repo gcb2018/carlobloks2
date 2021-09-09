@@ -29,6 +29,6 @@ I wrote en entire blogpost on what you can [do with a Raspberry Pi](/blog/raspbe
 
 My number 1 for 2017 has got to be the Apple AirPods. I am proud owner of a set since January 2017 and I can honestly say I have used them almost every single day. I use them mostly for listening to podcasts, watching Youtube, calling (they are in my ears probably 50% of my work day) and working out while listening to Spotify. If you are an audiophile there are options in the market for sure that offer you a better sound quality. I am not. At this price point and with the convenience they have brought me I can not tell you enough: buy a pair and you will love them. [Buy them here](https://www.apple.com/airpods/)
 
-This ends my Gift Guide for 2017\. Are you missing anything, please let me know by sending me a message on carlobloks@me.com and enjoy the Holidays!
+This ends my Gift Guide for 2017\. Are you missing anything, please let me know by sending me a message on hi@carlobloks.com and enjoy the Holidays!
 
 _PSA: I am NOT benefitting in any way from presenting you with this gift guide. Therefore please enjoy it as ad-free advice_ 😉
