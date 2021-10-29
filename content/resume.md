@@ -53,7 +53,7 @@ Github / Jenkins / Kibana / Kafka Operatr / Grafana / Sketch / Adobe CC / Adobe 
 
 ### Work together? Get in touch!
 
-*I am currentlt fully booked until the end of the year*
+*I am currently fully booked until 31/12/2021*
 
 Curious about working together or have a (micro-) job you need to get done? Feel free to get in touch and drop me a line in the form below.
 
