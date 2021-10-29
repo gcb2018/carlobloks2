@@ -69,6 +69,25 @@ ShowToc: false
 * 21 Lessons for the 21st Century - ✅ ⚡ 
 * Inspired: How to Create Tech Products Customers Love / Marty Cagan - ✅ ⚡
 
+### September 
+* The Thank You Economy / Gary Vaynerchuk - ✅ ⚡
+* The Geometry of Wealth / Brian Portnoy - ✅ ⚡
+* The Sic Pillars of Self-Esteem / Nathanial Branden ✅ ⚡
+* The Big Leap / Gay Hendricks ✅ ⚡
+* The Happiness Hypothesis / Jonathan Haidt ✅ ⚡
+* Freakonomics / Steven D. Levitt ✅ ⚡
+* The Millionaire Next Door / Thomas J. Stanley ✅ ⚡
+* A Guide to the Good LIfe / William B. Irvine ✅ ⚡
+
+### October
+* Unlimited Power / Tony Robbins - ✅ ⚡
+* Unshakeable / Tony Robbins - ✅ ⚡
+* Utopia for Realists / Rutger Bregman ✅ ⚡
+* This is Marketing / Seth Godin ✅ ⚡
+* Think and Grow Rich / Napoleon Hill ✅ ⚡
+* Difference Makers / Nicky Howe ✅ ⚡
+
+
 ### To be read
 * Joy at Work / Marie Kondo
 * Designing Your Work Life / Bill Burnett
