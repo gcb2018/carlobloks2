@@ -23,22 +23,20 @@ As you can read in the [About Me section](/about/) I have the _"sheer desire to 
 
 I truly own the topic/product/journey end-2-end. It starts with knowing the relevant data and checking the dashboards/data daily. All the way to knowing all customer journeys and making sure we build & improve (e.g. with A/B-testing, UX Research) incrementally and monitoring the production assets.
 
-I also like to describe myself as a Technical PO as I am used to diving into the different tools myself. For instance, in case of an incident I will be opening up the monitoring & logging tools to see how we can solve the incident for the users. On the other hand I feel it's truly necessary for a PO to understand the tools the experts in the team work with to make sure I understand the possibilities and limitations. 
+I also like to describe myself as a Technical PO as I am used to diving into the different tools myself. I know my way around all the tools/services used by the team and don't shy away from diving in myself if it helps the team. For instance, in case of an incident I have no issues in opening up the monitoring & logging tools to see how we can solve the incident for the users. I feel it's truly necessary for a PO to understand the tools the experts in the team work with to make sure I understand the possibilities and limitations. 
 
 ### At my current assignment
 
-Currently I am booked by Omron Healthcare. Without diving too deep into the details I am supporting Omron as a Product Owner in the further development and automation of their multi-country platform in SFCC/SFSC/SFMC as well as their omnichannel order management platform. Furthermore, I am fully involved in the automated E2E-tests setup as well as managing the Roadmap for the next 1-2 Qs to make sure the team works on the topics that deliver the most value to both users & business.
+Currently I am booked by Omron Healthcare. Without diving too deep into the details: I am supporting Omron as a Product Owner in the further development and automation of their multi-country platform in SFCC/SFSC/SFMC as well as their omnichannel order management platform. Furthermore, I am fully involved in the automated E2E-tests setup as well as managing the Roadmap for the next 1-2 Qs to make sure the team works on the topics that deliver the most value to both users & business.
 
 ### At my last assignment
 
-Together with the experts in my team we have shaped the digital landscape of all operating entities within Allianz Direct. We have developed brand new digital experiences with the latest technologies and insights.
+Together with the experts in my team we have shaped the digital landscape of all operating entities within Allianz Direct. We have developed brand new harmonized digital experiences with the latest technologies and insights that are being used by countries like NL/DE/IT/ES. 
 
 I was responsible for building and improving the website and the sales-funnels, including the external integrations.
 
-From the website UX to the brand voice. From all documents to the omni-channel customer communication. From tracking & analytics to the DMP and Experience Manager.
-We implemented and optimized the entire Adobe suite and enable the countries in achieving their goals.
-
-As you can see quite a broad set of topics 🚀
+From the website UX/UI to the brand voice. From all documents to the omni-channel customer communication. From tracking & analytics to the DMP and Experience Manager.
+We implemented and optimized the entire Adobe suite to enable the 4 countries countries in achieving their goals.
 
 --- 
 
