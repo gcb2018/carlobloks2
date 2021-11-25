@@ -24,4 +24,3 @@
   to = "/blog/story-discovery-in-short/"
   status = 301
   force = false
-  query = {path = ":path"}
