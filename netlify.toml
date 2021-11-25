@@ -20,7 +20,7 @@
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 
 [[redirects]]
-  from = "/blog/story-mapping-in-short/"
-  to = "/blog/story-discovery-in-short/"
+  from = "/blog/story-mapping-in-short"
+  to = "/blog/story-discovery-in-short"
   status = 301
   force = false

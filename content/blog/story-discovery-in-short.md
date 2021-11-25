@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Story Discovert in short"
+title:  "Story Discovery in short"
 date:   2021-11-17 12:53:00 +0200
 categories: agile
 description: What is Story Discovery and why is it useful?
