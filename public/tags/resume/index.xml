@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resume on Carlo Bloks 😎</title>
+    <link>https://www.carlobloks.com/tags/resume/</link>
+    <description>Recent content in resume on Carlo Bloks 😎</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.carlobloks.com/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://www.carlobloks.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carlobloks.com/resume/</guid>
+      <description>Digital Product Owner / Digital Experience Manager hi@carlobloks.com | LinkedIn | +31614873993
+Curious what others say about me?
+As a Digital Product Owner I have a 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level.
+I have a thorough understanding of the digital landscape - both technical &amp;amp; commercial - and my curiosity drives me to keep seeking continuously for opportunities that optimise and improve UI / UX and online sales as well as developing the most intuitive digital experiences.</description>
+    </item>
+    
+    <item>
+      <title>What others say about me</title>
+      <link>https://www.carlobloks.com/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carlobloks.com/testimonials/</guid>
+      <description>I am super proud and very grateful for the kind words that have been written about me. They are also posted on my LinkedIn if you want proof 😄
+ Tobias Siebert Senior Software Developer at Allianz Global Digital Factory
+ &amp;ldquo;Carlo is one of the rare product owners that combines a deep technological understanding with a clear product vision and strong communication skills. I worked with him in a very demanding environment for 2 years.</description>
+    </item>
+    
+  </channel>
+</rss>

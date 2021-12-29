@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unifi on Carlo Bloks 😎</title>
+    <link>https://www.carlobloks.com/tags/unifi/</link>
+    <description>Recent content in unifi on Carlo Bloks 😎</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Apr 2021 08:51:22 +0200</lastBuildDate><atom:link href="https://www.carlobloks.com/tags/unifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgrade Unifi Controller to 6.x</title>
+      <link>https://www.carlobloks.com/blog/upgrade_unifi_controller/</link>
+      <pubDate>Fri, 02 Apr 2021 08:51:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/upgrade_unifi_controller/</guid>
+      <description>First I was a bit hesitant on upgrading to 6.x as 5.14 was working absolutely fine. And why fix it if it ain&amp;rsquo;t broken&amp;hellip; 🤷‍♂️
+Then the Hook Up came out with an updated 3-part guide on how to setup and configure the Unifi network and I made the adjustments to move away from the WLAN overrides. I have to say I am not completely happy yet with the controller&amp;rsquo;s stability as it&amp;rsquo;s disconnecting quite a bit.</description>
+    </item>
+    
+    <item>
+      <title>Manually upgrading Unifi firmware</title>
+      <link>https://www.carlobloks.com/blog/manually-upgrading-unifi-firmware/</link>
+      <pubDate>Tue, 02 Mar 2021 12:45:00 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/manually-upgrading-unifi-firmware/</guid>
+      <description>So you might have tried upgrading your Unifi devices via the controller and for some reason it did not work. Usually this means that the download of the firmware-file failed and chances are big this happens for one of your Switches. In my usecase I am manually upgrading the US-8-60W.
+First you download the latest .bin-file from the Downloads page. Make sure to put it in the Downloads-folder on your Macbook in order to follow the steps I have specified below, else you need aadjust accordingly.</description>
+    </item>
+    
+    <item>
+      <title>Downgrade Unifi Controller from 6.0.xx to 5.14.23</title>
+      <link>https://www.carlobloks.com/blog/downgrade_unifi_controller/</link>
+      <pubDate>Thu, 10 Dec 2020 21:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/downgrade_unifi_controller/</guid>
+      <description>UPDATE 2/4/2021: I adjusted my configuration so that upgrading to 6.x would not cause any issues anymore. Read more on how to upgrade the Unifi Controller manually on your Raspberry Pi
+ Please don&amp;rsquo;t update your Unifi controller to 6.0.xx You will lose a couple great features that might mess up your network. Especially if you used the setup guide by The Hook Up. Think your VLAN settings for your WLAN and WLAN override configurations.</description>
+    </item>
+    
+  </channel>
+</rss>

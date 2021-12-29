@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Bloks 😎</title>
+    <link>https://www.carlobloks.com/</link>
+    <description>Recent content on Carlo Bloks 😎</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Nov 2021 12:53:00 +0200</lastBuildDate><atom:link href="https://www.carlobloks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story Discovery in short</title>
+      <link>https://www.carlobloks.com/blog/story-discovery-in-short/</link>
+      <pubDate>Wed, 17 Nov 2021 12:53:00 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/story-discovery-in-short/</guid>
+      <description>If you are not sure what a Story Discovery session is about this high level introduction might come in handy.
+Userstories mostly come from a PO or the business stakeholders. However it&amp;rsquo;s extremely valuable to get the insights from the team as well. I always like to ask my devs the following: &amp;ldquo;With the goal of “{Insert goal here}” in mind: what topics do YOU think we should put on the roadmap?</description>
+    </item>
+    
+    <item>
+      <title>Upgrade Unifi Controller to 6.x</title>
+      <link>https://www.carlobloks.com/blog/upgrade_unifi_controller/</link>
+      <pubDate>Fri, 02 Apr 2021 08:51:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/upgrade_unifi_controller/</guid>
+      <description>First I was a bit hesitant on upgrading to 6.x as 5.14 was working absolutely fine. And why fix it if it ain&amp;rsquo;t broken&amp;hellip; 🤷‍♂️
+Then the Hook Up came out with an updated 3-part guide on how to setup and configure the Unifi network and I made the adjustments to move away from the WLAN overrides. I have to say I am not completely happy yet with the controller&amp;rsquo;s stability as it&amp;rsquo;s disconnecting quite a bit.</description>
+    </item>
+    
+    <item>
+      <title>Cold showers for 34 days</title>
+      <link>https://www.carlobloks.com/blog/cold-showers-34days/</link>
+      <pubDate>Mon, 29 Mar 2021 20:53:00 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/cold-showers-34days/</guid>
+      <description>I&amp;rsquo;m an idiot and not entirely sure why I am even contemplating this. Laurens from Bikkelhart told me he does this all the time and I have heard more people talking about the benefits of cold showering and/or swimming.
+The science is not really conclusive yet on whether it actually works but so many people swear by it. It&amp;rsquo;s supposed to kickstart your day and do wonders for your immune system.</description>
+    </item>
+    
+    <item>
+      <title>Manually upgrading Unifi firmware</title>
+      <link>https://www.carlobloks.com/blog/manually-upgrading-unifi-firmware/</link>
+      <pubDate>Tue, 02 Mar 2021 12:45:00 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/manually-upgrading-unifi-firmware/</guid>
+      <description>So you might have tried upgrading your Unifi devices via the controller and for some reason it did not work. Usually this means that the download of the firmware-file failed and chances are big this happens for one of your Switches. In my usecase I am manually upgrading the US-8-60W.
+First you download the latest .bin-file from the Downloads page. Make sure to put it in the Downloads-folder on your Macbook in order to follow the steps I have specified below, else you need aadjust accordingly.</description>
+    </item>
+    
+    <item>
+      <title>Notion meets Alfred</title>
+      <link>https://www.carlobloks.com/blog/notion-alfred/</link>
+      <pubDate>Mon, 15 Feb 2021 20:51:12 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/notion-alfred/</guid>
+      <description>Powerful combination of 2 great apps According to the Alfred usage statics on average I have used Alfred 16.5 times a day. A staggering 24874 times since 31st December 2016 (The day I got this Macbook). Since I am now fully into Notion I though it would be great if both powerful apps can be combined. Turns out - as always - I am not the first one with this thought and with this great explanation it was super easy to setup.</description>
+    </item>
+    
+    <item>
+      <title>HomePod mini - Finally here</title>
+      <link>https://www.carlobloks.com/blog/homepod-mini/</link>
+      <pubDate>Sat, 30 Jan 2021 20:51:12 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/homepod-mini/</guid>
+      <description>4 Months of waiting I think they were announced somewhere in October and now 4 months later I finally got my hands on 2 HomePod minis. In short: they are absolutely great value for the money and I can really recommend them, especially if you are already deep in the &amp;lsquo;Apple ecosystem&amp;rsquo;.
+After trying them out in different rooms (where they all sound great) I ended up putting them both in the living room &amp;amp; kitchen.</description>
+    </item>
+    
+    <item>
+      <title>Honk - a new fun messaging app</title>
+      <link>https://www.carlobloks.com/blog/honk-messaging-app/</link>
+      <pubDate>Tue, 12 Jan 2021 08:59:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/honk-messaging-app/</guid>
+      <description>Honk.me Floris shared with me this weird but fun new messaging app called Honk which is showing the message as it is being typed. Including the user making mistakes and deleting some characters and then fixing the mistake. Instead of a &amp;lsquo;Send&amp;rsquo;-button it shows a &amp;lsquo;Refresh&amp;rsquo;-button that deletes your message and you can start typing again. But before refreshing the receiver has already seen the message. At least&amp;hellip; if he has been paying attention.</description>
+    </item>
+    
+    <item>
+      <title>Booklist 2021</title>
+      <link>https://www.carlobloks.com/blog/booklist-2021/</link>
+      <pubDate>Mon, 11 Jan 2021 08:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/booklist-2021/</guid>
+      <description>Books I have read this year or are still on my todo-list January  (re-read) The 4-hour workweek / Tim Ferriss - ✅ A Promised Land / Barack Obama - 📖 The Magic of Thinking Big / David Schwartz - ✅ No Excuses!: The Power of self-discipline for success in your life / Brian Tracy - ✅ Unfu*k Yourself / Gary John Bishop - ✅  February  How to Change Your Mind / Michael Pollan - ✅ The First 20 Hours / Josh Kaufman - ✅ Start with Why / Simon Sinek - ✅  March  Leaders Eat Last / Simon Sinek - ✅ (re-read) 7 Principles For Making Marriage Work / John M.</description>
+    </item>
+    
+    <item>
+      <title>Trying out Notion</title>
+      <link>https://www.carlobloks.com/blog/trying-out-notion/</link>
+      <pubDate>Thu, 07 Jan 2021 12:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/trying-out-notion/</guid>
+      <description>What is Notion and why try it out? Notion has been around for a couple years already. It&amp;rsquo;s an all-in-one workspace where you can write, plan, collaborate and get organized - &amp;ldquo;it allows you to take notes, add tasks, manage projects etc&amp;rdquo;. It&amp;rsquo;s also one of the fastest growing productivity apps available on many platforms and this of course sparked my interests.
+The common idea is a bit that it&amp;rsquo;s very easy nowadays to &amp;lsquo;collect stuff&amp;rsquo; but it&amp;rsquo;s getting increasingly more difficult to find it so you can actually do something with it.</description>
+    </item>
+    
+    <item>
+      <title>Downgrade Unifi Controller from 6.0.xx to 5.14.23</title>
+      <link>https://www.carlobloks.com/blog/downgrade_unifi_controller/</link>
+      <pubDate>Thu, 10 Dec 2020 21:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/downgrade_unifi_controller/</guid>
+      <description>UPDATE 2/4/2021: I adjusted my configuration so that upgrading to 6.x would not cause any issues anymore. Read more on how to upgrade the Unifi Controller manually on your Raspberry Pi
+ Please don&amp;rsquo;t update your Unifi controller to 6.0.xx You will lose a couple great features that might mess up your network. Especially if you used the setup guide by The Hook Up. Think your VLAN settings for your WLAN and WLAN override configurations.</description>
+    </item>
+    
+    <item>
+      <title>Podcast: 13 Minutes to the Moon</title>
+      <link>https://www.carlobloks.com/blog/podcast-13-minutes-moon/</link>
+      <pubDate>Wed, 21 Oct 2020 12:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/podcast-13-minutes-moon/</guid>
+      <description>Season 1: The Apollo 11 story (rating 10/10) This awesome podcast is about &amp;lsquo;How the first moon landing was saved. The story of the people who made Apollo 11 happen&amp;rsquo; In the first 10 episodes you hear snippets of the last 13 minutes of the conversation with the Astronauts. In the final 11th episode you hear the full 13 minutes without interruptions which you can now completely follow dus to the prior episodes.</description>
+    </item>
+    
+    <item>
+      <title>Booklist 2020</title>
+      <link>https://www.carlobloks.com/blog/booklist-2020/</link>
+      <pubDate>Mon, 19 Oct 2020 08:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/booklist-2020/</guid>
+      <description>Books I have read this year or are still on my todo-list  Measure What Matters / John Doerr - ✅ Inspired: How to Create Tech Products Customers Love / Marty Cagan - ❌ (will have to try in 2021) The Subtle Art of Not Giving a F*ck / Mark Manson - ✅ The Power of Habit / Chalres Dunigg - ✅ The Magic of Thinking Big / David Schwartz - ❌ (will have to try in 2021) The Lean Startup / Eric Ries - ✅  </description>
+    </item>
+    
+    <item>
+      <title>Bug Reporting</title>
+      <link>https://www.carlobloks.com/blog/bug-reporting/</link>
+      <pubDate>Tue, 13 Oct 2020 18:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/bug-reporting/</guid>
+      <description>If you work in a company selling products digitally everyone needs to learn how to properly debug before reporting a bug/issue to the incident managers or the platform-/dev-team.
+It happens way too often that a bug is sort of thrown over the fence. Reporter: &amp;ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&amp;rsquo;s not working as how I expected it to work, please investigate&amp;hellip;&amp;quot; OK&amp;hellip; now what?
+Before I jump into &amp;lsquo;investigation-mode&amp;rsquo; I would need at the minimum the following questions answered:  The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine?</description>
+    </item>
+    
+    <item>
+      <title>Allianz Direct - The first year.</title>
+      <link>https://www.carlobloks.com/blog/allianz-direct-1-year/</link>
+      <pubDate>Wed, 07 Oct 2020 14:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/allianz-direct-1-year/</guid>
+      <description>Checkout the Story of Allianz Direct. In the first year we launched the new brand in NL &amp;amp; DE. One harmonized customer experience built on top of cutting edge technology to ensure we are the most efficient insurer.</description>
+    </item>
+    
+    <item>
+      <title>Allianz Direct - Made by us.</title>
+      <link>https://www.carlobloks.com/blog/allianz-direct-made-by-us/</link>
+      <pubDate>Fri, 11 Oct 2019 14:27:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/allianz-direct-made-by-us/</guid>
+      <description>Together with the experts we are developing brand new digital experiences with the latest technologies and insights. Introducing -&amp;gt; Allianz Direct. We are reimagining the insurance business.</description>
+    </item>
+    
+    <item>
+      <title>Gift Guide for the 2017 Holidays — Tech edition</title>
+      <link>https://www.carlobloks.com/blog/gift-guide-2017/</link>
+      <pubDate>Mon, 25 Dec 2017 08:59:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/gift-guide-2017/</guid>
+      <description>Looking for a gift for one of your ‘semi-nerdy’ family members or friends? Or maybe even your spouse. Consider any of these gifts below. 5. RFXcom Are you already running Domoticz on a Raspberry Pi? And do you want to control those cheap 433MHz sensors/lights/switches/weather stations/sockets/etc you can find on eBay, Aliexpress or wherever? Maybe you already have some COCO (KlikAanKlikUit) switches or dimmers installed in your house? The missing link that connects all this to the web?</description>
+    </item>
+    
+    <item>
+      <title>Stop ads from entering your home using Pi-hole</title>
+      <link>https://www.carlobloks.com/blog/pihole/</link>
+      <pubDate>Tue, 07 Feb 2017 13:28:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/pihole/</guid>
+      <description>I don’t like ads and I feel no shame in admitting I use a combination of ad-blockers (uBlock) and ‘do-not-track-me’-plugins (Ghostery &amp;amp; Blur) in Safari. Come on, be honest; who isn’t… On the other side: sites I like get whitelisted. Easy.
+However with all these different devices in your household it gets a bit confusing and cumbersome to install ad-blockers on all your devices. How great would it be if you could block ads at your router?</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi — What is this Pi-thing?</title>
+      <link>https://www.carlobloks.com/blog/raspberry-pi/</link>
+      <pubDate>Sun, 25 Dec 2016 08:59:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/raspberry-pi/</guid>
+      <description>What is the Raspberry Pi? Don’t get fooled by the size of this micro computer. It’s as small as a credit card and comes in at pnly €40 (Raspberry Pi 3) but it’s powerful enough to output full HD video and can handle a myriad of other tasks you wouldn’t have thought were possible. It comes without all the usual bells and whistles and packs only the bare minimum. But you can easily expand the system to your liking.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.carlobloks.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carlobloks.com/about/</guid>
+      <description>About me The sheer desire to get ahead, solve problems and improve everyday. That&amp;rsquo;s what drives me both in my personal and professional life. I like challenging the status quo and trying out completely new approaches.
+From early on I have been curious and wanting to understand how things work and why. Always eager to learn something new and completely dive into the topic or taking it apart to see the inside and if I can get it to work again.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://www.carlobloks.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carlobloks.com/resume/</guid>
+      <description>Digital Product Owner / Digital Experience Manager hi@carlobloks.com | LinkedIn | +31614873993
+Curious what others say about me?
+As a Digital Product Owner I have a 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level.
+I have a thorough understanding of the digital landscape - both technical &amp;amp; commercial - and my curiosity drives me to keep seeking continuously for opportunities that optimise and improve UI / UX and online sales as well as developing the most intuitive digital experiences.</description>
+    </item>
+    
+    <item>
+      <title>What others say about me</title>
+      <link>https://www.carlobloks.com/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carlobloks.com/testimonials/</guid>
+      <description>I am super proud and very grateful for the kind words that have been written about me. They are also posted on my LinkedIn if you want proof 😄
+ Tobias Siebert Senior Software Developer at Allianz Global Digital Factory
+ &amp;ldquo;Carlo is one of the rare product owners that combines a deep technological understanding with a clear product vision and strong communication skills. I worked with him in a very demanding environment for 2 years.</description>
+    </item>
+    
+  </channel>
+</rss>

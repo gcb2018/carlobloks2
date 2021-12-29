@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.carlobloks.com/sitemap.xml

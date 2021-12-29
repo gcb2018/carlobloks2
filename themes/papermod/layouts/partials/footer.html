@@ -1,10 +1,12 @@
 <footer class="footer">
+    <span>
+        <img class="avatar" src="/images/carlo2.png" alt="" width="100" height="100" style="max-height:100px"/>
+    </span>
     {{- if .Site.Copyright }}
     <span>{{ .Site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; KeyPiece {{ now.Year }} - KvK: 62455737</span>
+    <span>&copy; KeyPiece 1986 - {{ now.Year }}. All rights reserved. KvK: 62455737 <br /></span>
     {{- end }}
-    <span>|</span>
     <span>Powered by <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> and deployed by <a href="https://www.netlify.com/" rel="noopener noreferrer" target="_blank">Netlify</a></span>
     <span>🚀</span>
 </footer>

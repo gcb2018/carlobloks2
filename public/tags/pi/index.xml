@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pi on Carlo Bloks 😎</title>
+    <link>https://www.carlobloks.com/tags/pi/</link>
+    <description>Recent content in pi on Carlo Bloks 😎</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Feb 2017 13:28:22 +0200</lastBuildDate><atom:link href="https://www.carlobloks.com/tags/pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop ads from entering your home using Pi-hole</title>
+      <link>https://www.carlobloks.com/blog/pihole/</link>
+      <pubDate>Tue, 07 Feb 2017 13:28:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/pihole/</guid>
+      <description>I don’t like ads and I feel no shame in admitting I use a combination of ad-blockers (uBlock) and ‘do-not-track-me’-plugins (Ghostery &amp;amp; Blur) in Safari. Come on, be honest; who isn’t… On the other side: sites I like get whitelisted. Easy.
+However with all these different devices in your household it gets a bit confusing and cumbersome to install ad-blockers on all your devices. How great would it be if you could block ads at your router?</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi — What is this Pi-thing?</title>
+      <link>https://www.carlobloks.com/blog/raspberry-pi/</link>
+      <pubDate>Sun, 25 Dec 2016 08:59:22 +0200</pubDate>
+      
+      <guid>https://www.carlobloks.com/blog/raspberry-pi/</guid>
+      <description>What is the Raspberry Pi? Don’t get fooled by the size of this micro computer. It’s as small as a credit card and comes in at pnly €40 (Raspberry Pi 3) but it’s powerful enough to output full HD video and can handle a myriad of other tasks you wouldn’t have thought were possible. It comes without all the usual bells and whistles and packs only the bare minimum. But you can easily expand the system to your liking.</description>
+    </item>
+    
+  </channel>
+</rss>
