@@ -20,7 +20,13 @@
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 
 [[redirects]]
-  from = "/blog/story-mapping-in-short"
+  from = "http://localhost:1313/blog/story-mapping-in-short"
   to = "/blog/story-discovery-in-short"
   status = 301
-  force = false
+  force = true
+
+[[redirects]]
+  from = "https://carlobloks.netlify.app/*"
+  to = "https://www.carlobloks.com/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
