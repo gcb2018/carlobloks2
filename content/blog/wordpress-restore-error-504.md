@@ -17,6 +17,9 @@ Easies way to do that is to install [Filezilla](https://filezilla-project.org/) 
 
 In the httpdocs folder of your Wordpress site, create a new file called `.user.ini`
 
+![user-ini](/images/user-ini.png)
+
+
 Then open the `.user.ini` file and add the following lines:
 
 ```
