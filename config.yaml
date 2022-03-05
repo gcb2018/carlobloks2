@@ -5,8 +5,6 @@ theme: papermod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-googleAnalytics: UA-191704601-1
-
 minify:
     disableXML: true
     # minifyOutput: true

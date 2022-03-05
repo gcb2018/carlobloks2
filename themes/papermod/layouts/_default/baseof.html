@@ -1,8 +1,10 @@
 <!DOCTYPE html>
+
 <html lang="{{ .Site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 
 <head>
     {{- partial "head.html" . }}
+
 </head>
 
 <body class="
@@ -13,12 +15,18 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
+<button class="skip-main" onclick="(_ => document.querySelector('.main').focus())()">Skip to content</button>
+
+
     {{- partialCached "header.html" . .Page}}
-    <main class="main">
+    <main class="main" id="main" role="main" tabindex="-1">
         {{- block "main" . }}
         {{- end }}
     </main>
     {{- partialCached "footer.html" . .Type .Layout .Params }}
+   
+    
+
 </body>
 
 </html>
