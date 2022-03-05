@@ -4,7 +4,8 @@
         <h2>{{- .Title | markdownify }}</h2>
     </header>
     <section class="entry-content">
-        <p>{{- .Content | markdownify }}</p>
+        <h1 class="entry-content">{{- .Content | markdownify }}</h1>
+        <p>{{- .Content2 | markdownify }}</p>
     </section>
     <footer class="entry-footer">
         {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
