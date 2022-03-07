@@ -13,7 +13,7 @@ TocOpen: true
 
 Curious what others [say about me](/testimonials/)?
 
-As a Digital Product Owner I have a 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level. 
+As a Digital Product Owner I have an 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level. 
 
 I have a thorough understanding of the digital landscape - both technical & commercial - and my curiosity drives me to keep seeking continuously for opportunities that optimise and improve UI / UX and online sales as well as developing the most intuitive digital experiences. I know how to maximize value for your users.
 
@@ -51,7 +51,7 @@ Github / Jenkins / Kibana / Kafka Operatr / Grafana / Sketch / Adobe CC / Adobe 
 
 ### Work together? Get in touch!
 
-*I am currently fully booked until 31/12/2021*
+*I am currently fully booked until July '22*
 
 Curious about working together or have a (micro-) job you need to get done? Feel free to get in touch and drop me a line in the form below.
 
