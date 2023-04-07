@@ -1,4 +1,4 @@
-baseURL: "https://www.carlobloks.com/"
+baseURL: "/"
 title: Carlo Bloks 😎
 paginate: 5
 theme: papermod
