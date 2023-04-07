@@ -11,6 +11,8 @@ TocOpen: true
 
 [hi@carlobloks.com](mailto:hi@carlobloks.com) | [LinkedIn](https://www.linkedin.com/in/carlobloks/) | [+31614873993](tel:+31614873993)
 
+*I am currently not available as I am fully booked until July '24*
+
 Curious what others [say about me](/testimonials/)?
 
 As a Digital Product Owner I have an 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level. 
@@ -25,13 +27,13 @@ I truly own the topic/product/journey end-2-end. It starts with knowing the rele
 
 I also like to describe myself as a Technical PO as I am used to diving into the different tools myself. I know my way around all the tools/services used by the team and don't shy away from diving in myself if it helps the team. For instance, in case of an incident I have no issues in opening up the monitoring & logging tools to see how we can solve the incident for the users. I feel it's truly necessary for a PO to understand the tools the experts in the team work with to make sure I understand the possibilities and limitations. 
 
-### At my current assignment
-
-Currently I am booked by Omron Healthcare. Without diving too deep into the details: I am supporting Omron as a Product Owner in the further development and automation of their multi-country platform in SFCC/SFSC/SFMC as well as their omnichannel order management platform. Furthermore, I am fully involved in the automated E2E-tests setup as well as managing the Roadmap for the next 1-2 Qs to make sure the team works on the topics that deliver the most value to both users & business.
-
 ### At my last assignment
 
-Together with the experts in my team we have shaped the digital landscape of all operating entities within Allianz Direct. We have developed brand new harmonized digital experiences with the latest technologies and insights that are being used by countries like NL/DE/IT/ES. 
+My previous assignment I was booked by Omron Healthcare. Without diving too deep into the details: I've been supporting Omron as a Product Owner in the further development and automation of their multi-country platform in Salesforce (SFCC/SFSC/SFMC) as well as their omnichannel order management platform. Furthermore, I was fully involved in the automated E2E-tests setup as well as managing the Roadmap for the next 1-2 Qs to make sure the team works on the topics that deliver the most value to both users & business.
+
+### Before Omron
+
+Together with the experts in my team we have shaped the digital landscape of all operating entities within Allianz Direct (previously known as Allsecur NL). We have developed brand new harmonized digital experiences with the latest technologies and insights that are being used by countries like NL/DE/IT/ES. 
 
 I was responsible for building and improving the website and the sales-funnels, including the external integrations.
 
@@ -51,7 +53,7 @@ Github / Jenkins / Kibana / Kafka Operatr / Grafana / Sketch / Adobe CC / Adobe 
 
 ### Work together? Get in touch!
 
-*I am currently fully booked until July '22*
+*I am currently not available as I am fully booked until July '24*
 
 Curious about working together or have a (micro-) job you need to get done? Feel free to get in touch and drop me a line in the form below.
 
