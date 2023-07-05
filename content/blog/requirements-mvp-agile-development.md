@@ -17,7 +17,7 @@ Engaging with stakeholders right from the start is essential in capturing accura
 ### Employ User-Centric Techniques:
 Adopting user-centric techniques helps you build a user-focused MVP. Conduct user research, interviews, and surveys to gain valuable insights into your target audience. Analyze user behavior, pain points, and expectations to identify the core features that will provide maximum value to your users. Utilize techniques like user stories, personas, and user journey mapping to visualize user interactions and align your MVP with their needs.
 
-## Prioritize and Define User Stories:
+### Prioritize and Define User Stories:
 In Agile, prioritization is key. Work with your stakeholders to identify and prioritize user stories that align with the goals of your MVP. User stories are concise descriptions of a feature or functionality from the user's perspective. Use the INVEST acronym (Independent, Negotiable, Valuable, Estimable, Small, Testable) to refine your user stories, making them actionable and ensuring they deliver value to the end-users.
 
 ### Embrace Iterative Development:
@@ -32,4 +32,4 @@ Visualizing your MVP through prototyping and mockups can be immensely valuable. 
 ### Emphasize MVP Scope Control:
 While enthusiasm and ambition are essential, it's crucial to maintain a realistic scope for your MVP. Avoid scope creep by clearly defining the boundaries of your MVP and focusing on its core functionalities. Continuously evaluate new ideas against the MVP's objectives and decide whether they fit within the initial scope or should be considered for future iterations. Remember, an MVP should provide enough value to validate your product idea without overwhelming development efforts.
 
-Obtaining requirements for an MVP in Agile software development is a dynamic and iterative process. By collaborating with stakeholders, employing user-centric techniques, prioritizing user stories, embracing iterative development, fostering continuous communication, leveraging prototyping, and controlling MVP scope, you pave the way for a successful
+Obtaining requirements for an MVP in Agile software development is a dynamic and iterative process. By collaborating with stakeholders, employing user-centric techniques, prioritizing user stories, embracing iterative development, fostering continuous communication, leveraging prototyping, and controlling MVP scope, you pave the way for a successful first launch.
