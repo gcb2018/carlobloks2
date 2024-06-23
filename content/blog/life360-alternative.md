@@ -13,6 +13,8 @@ Ever since the unofficial Life360 plugin for Homeassistant started to act spotty
 
 Luckily the only thing I need to know is whether 1 or more person is `home` vs `not_home`. This I determine with a probably way too complex Node-RED if-this-then-that type of flow. As Homeassistant has this built-in it was actually quite easy to setup. There are a couple other services out there as well, but for some reason I trust Homeassistant more (than Life360, for sure) when it comes to sharing my data with a 3rd party...
 
+![node_red_flow](/images/node_red_flow.png)
+
 Steps to take:
 * Remove all device_tracker related plugins first.
 * Install the Homeassistant app on your iOS/Android device and setup it to allow Location Permission to `Always`. Set Location Accuracy to `Full` and Background Refresh to `Enabled`.
