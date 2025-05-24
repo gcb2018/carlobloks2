@@ -11,7 +11,7 @@ TocOpen: true
 
 [hi@carlobloks.com](mailto:hi@carlobloks.com) | [LinkedIn](https://www.linkedin.com/in/carlobloks/) | [+31614873993](tel:+31614873993)
 
-*I am currently not available as I am fully booked until July '24*
+*I am currently not available as I am fully booked until November '25*
 
 Curious what others [say about me](/testimonials/)?
 
@@ -53,7 +53,7 @@ Github / Jenkins / Kibana / Kafka Operatr / Grafana / Sketch / Adobe CC / Adobe 
 
 ### Work together? Get in touch!
 
-*I am currently not available as I am fully booked until July '24*
+*I am currently not available as I am fully booked until November '25*
 
 Curious about working together or have a (micro-) job you need to get done? Feel free to get in touch and drop me a line in the form below.
 
