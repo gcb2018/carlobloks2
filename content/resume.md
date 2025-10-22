@@ -11,13 +11,17 @@ TocOpen: true
 
 [hi@carlobloks.com](mailto:hi@carlobloks.com) | [LinkedIn](https://www.linkedin.com/in/carlobloks/) | [+31614873993](tel:+31614873993)
 
-*I am currently not available as I am fully booked until November '25*
+*I am currently not available as I am fully booked until December '25*
 
 Curious what others [say about me](/testimonials/)?
 
-As a Digital Product Owner I have an 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level. 
+Freelance Digital Product Owner with 14+ years of experience helping teams turn ideas into reliable, user-focused digital products.
 
-I have a thorough understanding of the digital landscape - both technical & commercial - and my curiosity drives me to keep seeking continuously for opportunities that optimise and improve UI / UX and online sales as well as developing the most intuitive digital experiences. I know how to maximize value for your users.
+Over the years, I’ve led cross-functional Agile teams across industries and countries, always focused on creating products that make sense for both users and the business. Known for bridging the gap between strategy and technology, translating complex ideas into clear priorities and deliverables that move teams forward.
+
+I’m naturally curious and love understanding how things work, whether it’s the architecture behind a platform, the data driving a dashboard, or the small UX/UI tweaks that make a big difference. That curiosity keeps me exploring new tools and smarter ways of building products.
+
+As my current assignment wraps up later this year, I’m starting to look ahead to new opportunities for early 2026. If your team values a pragmatic, tech-savvy Product Owner who enjoys connecting people, processes, and technology — I’d love to connect.
 
 ### How I work
 
@@ -47,13 +51,11 @@ We implemented and optimized the entire Adobe suite to enable the 4 countries co
 Github / Jenkins / Kibana / Kafka Operatr / Grafana / Sketch / Adobe CC / Adobe Experience Manager / ElastAlert / Adobe Target / Final Cut X / Pixelmator / Blueconic / Node-RED / Zigbee2mqtt / LAKKA / RetroPie / Abstract / Postman / Hotjar / MySQL / Omnigraffle / Trello / Invision / Miro / Figma / Google & Adobe Analytics / Twilio / Wordpress  / Whimsical / Lottie / Ryte / Crashlytics / iTunes Connect / Home Automation / Raspberry Pi / Home Assistant / Workflow Productivity / Notion / Slack / Teams / IoT / Jekyll / Netlify / HUGO / Visual Studio Code
 
 ### Download
-- [Resume in PDF](/docs/CV_Carlo_Bloks.pdf) 
-- [Resume in DOCX](/docs/CV_Carlo_Bloks.docx) 
-- [Resume in Pages](/docs/CV_Carlo_Bloks.pages) 
+- [Resume in PDF](/docs/CV_Carlo_Bloks_25.pdf) 
 
 ### Work together? Get in touch!
 
-*I am currently not available as I am fully booked until November '25*
+*I am currently not available as I am fully booked until December '25*
 
 Curious about working together or have a (micro-) job you need to get done? Feel free to get in touch and drop me a line in the form below.
 
