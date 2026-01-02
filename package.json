@@ -1,0 +1,12 @@
+{
+  "name": "carlobloks2",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "private": true,
+  "devDependencies": {
+    "@cypress/request": "^3.0.9"
+  },
+  "overrides": {
+    "qs": ">=6.14.1"
+  }
+}
