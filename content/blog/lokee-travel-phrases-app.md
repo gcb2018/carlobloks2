@@ -15,7 +15,7 @@ I tried a bunch of translation apps but they're either overkill (I don't need to
 
 So I built [Lokee](https://www.lokeeapp.com).
 
-{{< carousel images="/images/lokee/1.png,/images/lokee/2.png,/images/lokee/3.png" >}}
+{{< carousel images="/images/lokee/1.PNG,/images/lokee/2.PNG,/images/lokee/3.PNG,/images/lokee/4.PNG,/images/lokee/5.PNG" >}}
 
 It's a simple iOS app with travel phrases organized by situation: greetings, food & drinks, directions, hotel stuff, emergencies, that kind of thing. Each phrase has audio so you can hear how it's supposed to sound. You can favorite the ones you use most and they stay available offline.
 
