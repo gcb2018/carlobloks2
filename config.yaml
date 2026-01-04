@@ -1,6 +1,7 @@
 baseURL: "/"
 title: Carlo Bloks 😎
-paginate: 5
+pagination:
+    pagerSize: 5
 theme: papermod
 enableInlineShortcodes: true
 enableRobotsTXT: true
