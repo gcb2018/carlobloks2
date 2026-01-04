@@ -1,0 +1,56 @@
+{{- $images := split (.Get "images") "," -}}
+{{- $id := printf "carousel-%s" (md5 (delimit $images "")) -}}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+
+<style>
+  .splide__slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .splide__slide img {
+    max-height: 500px;
+    width: auto;
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  .splide__arrow {
+    background: var(--primary) !important;
+    opacity: 0.9;
+  }
+  .splide__arrow svg {
+    fill: var(--theme) !important;
+  }
+  .splide__pagination__page.is-active {
+    background: var(--primary) !important;
+  }
+</style>
+
+<div id="{{ $id }}" class="splide" style="margin: 2rem 0;">
+  <div class="splide__track">
+    <ul class="splide__list">
+      {{- range $images }}
+      <li class="splide__slide">
+        <img src="{{ . | safeURL }}" alt="Screenshot" loading="lazy">
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    new Splide('#{{ $id }}', {
+      type: 'loop',
+      perPage: 1,
+      autoplay: false,
+      pauseOnHover: true,
+      arrows: true,
+      pagination: true,
+      gap: '1rem',
+    }).mount();
+  });
+</script>
