@@ -23,4 +23,4 @@ No accounts, no subscriptions, no ads, and no personal data collected. There's a
 
 Right now it supports Spanish, Portuguese, French, Italian, German, Dutch, Greek, Danish, Papiamento, Chinese, and Thai. I'll add more languages over time based on where I'm heading next (or based on feedback).
 
-You can find it on the [App Store](https://apps.apple.com/app/lokee/id6744227541) - if you have ideas or run into issues, just reach out at hi@lokeeapp.com. I'm genuinely curious what works and what doesn't.
+You can find it on the [App Store](https://apps.apple.com/app/id6756304796) - if you have ideas or run into issues, just reach out at hi@lokeeapp.com. I'm genuinely curious what works and what doesn't.
