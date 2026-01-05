@@ -13,7 +13,7 @@ When I travel I like trying to speak with locals, even if it's just a few words.
 
 I tried a bunch of translation apps but they're either overkill (I don't need to learn verb conjugations on vacation) or just give you text without any idea how to actually pronounce it. And Google Translate in a crowded market with bad reception? Not fun.
 
-So I built [Lokee](https://www.lokeeapp.com).
+So I built [Lokee](https://apps.apple.com/app/id6756304796).
 
 {{< carousel images="/images/lokee/1.PNG,/images/lokee/2.PNG,/images/lokee/3.PNG,/images/lokee/4.PNG,/images/lokee/5.PNG" >}}
 
@@ -21,6 +21,6 @@ It's a simple iOS app with travel phrases organized by situation: greetings, foo
 
 No accounts, no subscriptions, no ads, and no personal data collected. There's a 3-day free trial to try everything out. After that you can grab a travel pass (7 or 30 days) or just get lifetime access if you travel often.
 
-Right now it supports Spanish, Portuguese, French, Italian, German, Dutch, Greek, Danish, Papiamento, Chinese, and Thai. I'll add more languages over time based on where I'm heading next (or based on feedback).
+Right now it supports Spanish, Portuguese, French, Italian, German, Dutch, Turkish, Danish, Papiamento, Chinese, and Thai. I'll add more languages over time based on where I'm heading next (or based on feedback).
 
-You can find it on the [App Store](https://apps.apple.com/app/id6756304796) - if you have ideas or run into issues, just reach out at hi@lokeeapp.com. I'm genuinely curious what works and what doesn't.
+You can find it on the [App Store](https://apps.apple.com/app/id6756304796) or check [lokeeapp.com](https://www.lokeeapp.com) - if you have ideas or run into issues, just reach out at hi@lokeeapp.com. I'm genuinely curious what works and what doesn't.
