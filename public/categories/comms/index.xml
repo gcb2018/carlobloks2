@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comms on Carlo Bloks 😎</title>
+    <link>//localhost:1313/categories/comms/</link>
+    <description>Recent content in Comms on Carlo Bloks 😎</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jan 2022 09:53:00 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/comms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi...</title>
+      <link>//localhost:1313/blog/no-hello/</link>
+      <pubDate>Fri, 28 Jan 2022 09:53:00 +0200</pubDate>
+      <guid>//localhost:1313/blog/no-hello/</guid>
+      <description>&lt;p&gt;Working remote is awesome, especially if you can use proper tools (🖕🏼 Teams -&amp;gt; 😍 Slack). However, not everyone is used to working with these tools and there is definitely some &lt;a href=&#34;https://slack.com/blog/collaboration/etiquette-tips-in-slack&#34;&gt;etiquette&lt;/a&gt; involved here.&lt;/p&gt;&#xA;&lt;p&gt;The most annoying one is receiving a message just saying: &amp;ldquo;Hi Carlo&amp;rdquo; and then nothing&amp;hellip; Now my brain goes: shit what does he/she want? If I answer will I be sucked into some unimportant topic I don&amp;rsquo;t want to deal with right now or does he/she simply want help? This is wasting both of our time. So please, just spit it out in the first sentence: &amp;ldquo;Hi Carlo, can you please help me with X&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

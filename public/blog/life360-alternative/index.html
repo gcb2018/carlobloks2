@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<script defer data-domain="carlobloks.com" src="https://plausible.io/js/plausible.js"></script>
+
+<title>Homeassistant - A Life360 alternative | Carlo Bloks 😎</title>
+
+<meta name="keywords" content="home automation, tips" />
+<meta name="description" content="Use Homeassistants built-in location services as a Life360 alternative for device tracking and presence detection">
+<meta name="author" content="">
+<link rel="canonical" href="//localhost:1313/blog/life360-alternative/" />
+<link href="//localhost:1313/assets/css/stylesheet.min.2e526c12fb95c521d427cdb53f92ef4b284b9f725136fbf9e98a54c3f94b3ce3.css" integrity="sha256-LlJsEvuVxSHUJ821P5LvSyhLn3JRNvv56YpUw/lLPOM=" rel="preload stylesheet"
+    as="style">
+
+<link rel="icon" href="//localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="//localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.154.2">
+
+
+<meta property="og:title" content="Homeassistant - A Life360 alternative" />
+<meta property="og:description" content="Use Homeassistants built-in location services as a Life360 alternative for device tracking and presence detection" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:1313/blog/life360-alternative/" />
+<meta property="og:image" content="//localhost:1313/opengraph.png"/>
+<meta property="article:published_time" content="2024-01-21T09:18:00+02:00" />
+<meta property="article:modified_time" content="2024-01-21T09:18:00+02:00" />
+<meta property="article:section" content="blog" />
+<meta property="article:tag" content="home automation" />
+<meta property="article:tag" content="tips" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="//localhost:1313/opengraph.png"/>
+
+<meta name="twitter:title" content="Homeassistant - A Life360 alternative"/>
+<meta name="twitter:description" content="Use Homeassistants built-in location services as a Life360 alternative for device tracking and presence detection"/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Homeassistant - A Life360 alternative",
+  "name": "Homeassistant - A Life360 alternative",
+  "description": "Ever since the unofficial Life360 plugin for Homeassistant started to act spotty (API changes related to Cloudfare all the time that were no longer fun to try to keep up with) I …",
+  "keywords": [
+    "home automation", "tips"
+  ],
+  "articleBody": "Ever since the unofficial Life360 plugin for Homeassistant started to act spotty (API changes related to Cloudfare all the time that were no longer fun to try to keep up with) I have been looking for an alternative.\nLuckily the only thing I need to know is whether 1 or more person is home vs not_home. This I determine with a probably way too complex Node-RED if-this-then-that type of flow. As Homeassistant has this built-in it was actually quite easy to setup. There are a couple other services out there as well, but for some reason I trust Homeassistant more (than Life360, for sure) when it comes to sharing my data with a 3rd party…\nSteps to take:\nRemove all device_tracker related plugins first. Install the Homeassistant app on your iOS/Android device and setup it to allow Location Permission to Always. Set Location Accuracy to Full and Background Refresh to Enabled. For the home vs not_home logic you can use the device_tracker or check whether the device is connected to the wifi-network with the ssid sensor Update the Node-RED to make sure to use the proper Entity ID, e.g. device_tracker.iphone_van_marcella_15_pro UPDATE: I have been using this method for a couple months now and have had zero issues. I can’t believe I wasted all this time trying to fix the Life360 plugin… This works straight out of the box if you need simple device tracking \u0026 location detection.\n",
+  "wordCount" : "237",
+  "inLanguage": "en",
+  "datePublished": "2024-01-21T09:18:00+02:00",
+  "dateModified": "2024-01-21T09:18:00+02:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "//localhost:1313/blog/life360-alternative/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Carlo Bloks 😎",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "//localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+
+</head>
+
+<body class=" dark" id="top">
+<button class="skip-main" onclick="(_ => document.querySelector('.main').focus())()">Skip to content</button>
+<script>
+    if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        .theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="//localhost:1313/" accesskey="h" title="Carlo Bloks 😎">
+              
+                <img src="/images/favicon-32x32.png" alt="logo" aria-label="logo"
+                    height="30px">
+                Carlo Bloks
+            </a>
+            <span class="logo-switches">
+                <span class="theme-toggle" title="(Alt + T)">
+                    <a id="theme-toggle" accesskey="t">
+                        <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                        <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                            fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                    </a>
+                </span>
+                
+                <span class="lang-switch">
+                    <span>|</span>
+                    <ul>
+                    </ul>
+                </span>
+            </span>
+        </div>
+        <ul class="menu" id="menu" onscroll="menu_on_scroll()">
+            <li>
+                <a href="//localhost:1313/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+            <li>
+                <a href="//localhost:1313/resume/" title="Resume">
+                    <span>Resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="//localhost:1313/blog/booklist-2021/" title="Booklist">
+                    <span>Booklist</span>
+                </a>
+            </li></ul>
+    </nav>
+</header>
+
+    <main class="main" id="main" role="main" tabindex="-1">
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">
+      Homeassistant - A Life360 alternative
+    </h1>
+    <div class="post-meta">January 21, 2024
+
+    </div>
+  </header> 
+
+  <div class="post-content">
+<p>Ever since the unofficial Life360 plugin for Homeassistant started to act spotty (API changes related to Cloudfare all the time that were no longer fun to try to keep up with) I have been looking for an alternative.</p>
+<p>Luckily the only thing I need to know is whether 1 or more person is <code>home</code> vs <code>not_home</code>. This I determine with a probably way too complex Node-RED if-this-then-that type of flow. As Homeassistant has this built-in it was actually quite easy to setup. There are a couple other services out there as well, but for some reason I trust Homeassistant more (than Life360, for sure) when it comes to sharing my data with a 3rd party&hellip;</p>
+<p><img src="/images/node_red_flow.png" alt="node_red_flow"></p>
+<p>Steps to take:</p>
+<ul>
+<li>Remove all device_tracker related plugins first.</li>
+<li>Install the Homeassistant app on your iOS/Android device and setup it to allow Location Permission to <code>Always</code>. Set Location Accuracy to <code>Full</code> and Background Refresh to <code>Enabled</code>.</li>
+<li>For the <code>home</code> vs <code>not_home</code> logic you can use the device_tracker or check whether the device is connected to the wifi-network with the ssid sensor</li>
+<li>Update the Node-RED to make sure to use the proper Entity ID, e.g. <code>device_tracker.iphone_van_marcella_15_pro</code></li>
+</ul>
+<p><em>UPDATE: I have been using this method for a couple months now and have had zero issues. I can&rsquo;t believe I wasted all this time trying to fix the Life360 plugin&hellip; This works straight out of the box if you need simple device tracking &amp; location detection.</em></p>
+
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="//localhost:1313/tags/home-automation/">Home Automation</a></li>
+      <li><a href="//localhost:1313/tags/tips/">Tips</a></li>
+    </ul>
+  </footer>
+</article>
+    </main><footer class="footer">
+    <span>
+        <img class="avatar" src="/images/carlo2.png" alt="" width="100" height="100" style="max-height:100px"/>
+    </span>
+    <span>&copy; KeyPiece 1986 - 2026. All rights reserved. KvK: 62455737 <br /></span>
+    <span>Powered by <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> and deployed by <a href="https://www.netlify.com/" rel="noopener noreferrer" target="_blank">Netlify</a></span>
+    <span>🚀</span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
+    <button class="top-link" id="top-link" type="button" accesskey="g">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+            <path d="M12 6H0l6-6z" />
+        </svg>
+    </button>
+</a>
+
+
+
+<script defer src="//localhost:1313/assets/js/highlight.min.555af97124d54bb1457985dd081b8f5616a48103aafeb30ac89fde835d65aa6c.js" integrity="sha256-VVr5cSTVS7FFeYXdCBuPVhakgQOq/rMKyJ/eg11lqmw="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<script>
+    window.onload = function () {
+        if (localStorage.getItem("menu-scroll-position")) {
+            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
+        }
+    }
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                behavior: "smooth"
+            });
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.replaceState(null, null, `#${id}`);
+            }
+        });
+    });
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+    function menu_on_scroll() {
+        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+    }
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+
+   
+    
+
+</body>
+
+</html>

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -11,50 +12,115 @@
 
 <meta name="keywords" content="" />
 <meta name="description" content="If you work in a company selling products digitally everyone needs to learn how to properly debug before reporting a bug/issue to the incident managers or the platform-/dev-team.
-It happens way too often that a bug is sort of thrown over the fence. Reporter: &ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&quot; OK&hellip; now what?
-Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum the following questions answered:  The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine?">
+It happens way too often that a bug is sort of thrown over the fence. Reporter: &ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&rdquo; OK&hellip; now what?
+Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum the following questions answered:
+
+The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine? If we cannot reproduce it it cannot be investigated &amp; fixed.
+
+
+It&rsquo;s honestly not useful that it happens on your laptop/mobile (only?) and that perhaps it might happen to more users.
+
+
+Also, what did you do to debug it? (Assuming a website-bug) Did you:
+
+
+try it in other browsers;
+clear you cache / delete your cookies;
+try it in incognito mode;
+try it on another device;
+try it without VPN or wifi (yes, also try on your phone&rsquo;s hotspot);
+make sure no plugins or extensions are interfering;
+make sure you are on the correct URL (http vs. https, www vs non-www)
+
+
+Are there signs of multiple users being affected by the bug? If so, how many per hour/day/week?
+
+
+This helps in determining the impact &amp; priority from a P4 (low-impact but still needs to be fixed) to P1 (production defect, all users are affected, drop everything and start fixing it)
+
+If you tried all the above and it&rsquo;s clear there is something going on then we can go to the next step. The actual bug report.">
 <meta name="author" content="">
-<link rel="canonical" href="https://www.carlobloks.com/blog/bug-reporting/" />
-<link href="https://www.carlobloks.com/assets/css/stylesheet.min.8d69a44b0d17109bf0038fce2a3b5a46eee27c0659c1f1fa3f25fdb9b3aa78b2.css" integrity="sha256-jWmkSw0XEJvwA4/OKjtaRu7ifAZZwfH6PyX9ubOqeLI=" rel="preload stylesheet"
+<link rel="canonical" href="//localhost:1313/blog/bug-reporting/" />
+<link href="//localhost:1313/assets/css/stylesheet.min.2e526c12fb95c521d427cdb53f92ef4b284b9f725136fbf9e98a54c3f94b3ce3.css" integrity="sha256-LlJsEvuVxSHUJ821P5LvSyhLn3JRNvv56YpUw/lLPOM=" rel="preload stylesheet"
     as="style">
 
-<link rel="icon" href="https://www.carlobloks.com/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://www.carlobloks.com/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://www.carlobloks.com/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://www.carlobloks.com/apple-touch-icon.png">
-<link rel="mask-icon" href="https://www.carlobloks.com/safari-pinned-tab.svg">
+<link rel="icon" href="//localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="//localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<meta name="generator" content="Hugo 0.79.0" />
+<meta name="generator" content="Hugo 0.154.2">
 
 
-
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-191704601-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 <meta property="og:title" content="Bug Reporting" />
 <meta property="og:description" content="If you work in a company selling products digitally everyone needs to learn how to properly debug before reporting a bug/issue to the incident managers or the platform-/dev-team.
-It happens way too often that a bug is sort of thrown over the fence. Reporter: &ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&quot; OK&hellip; now what?
-Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum the following questions answered:  The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine?" />
+It happens way too often that a bug is sort of thrown over the fence. Reporter: &ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&rdquo; OK&hellip; now what?
+Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum the following questions answered:
+
+The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine? If we cannot reproduce it it cannot be investigated &amp; fixed.
+
+
+It&rsquo;s honestly not useful that it happens on your laptop/mobile (only?) and that perhaps it might happen to more users.
+
+
+Also, what did you do to debug it? (Assuming a website-bug) Did you:
+
+
+try it in other browsers;
+clear you cache / delete your cookies;
+try it in incognito mode;
+try it on another device;
+try it without VPN or wifi (yes, also try on your phone&rsquo;s hotspot);
+make sure no plugins or extensions are interfering;
+make sure you are on the correct URL (http vs. https, www vs non-www)
+
+
+Are there signs of multiple users being affected by the bug? If so, how many per hour/day/week?
+
+
+This helps in determining the impact &amp; priority from a P4 (low-impact but still needs to be fixed) to P1 (production defect, all users are affected, drop everything and start fixing it)
+
+If you tried all the above and it&rsquo;s clear there is something going on then we can go to the next step. The actual bug report." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.carlobloks.com/blog/bug-reporting/" />
-<meta property="og:image" content="https://www.carlobloks.com/opengraph.png"/>
+<meta property="og:url" content="//localhost:1313/blog/bug-reporting/" />
+<meta property="og:image" content="//localhost:1313/opengraph.png"/>
 <meta property="article:published_time" content="2020-10-13T18:27:22+02:00" />
 <meta property="article:modified_time" content="2020-10-13T18:27:22+02:00" />
+<meta property="article:section" content="blog" />
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://www.carlobloks.com/opengraph.png"/>
+<meta name="twitter:image" content="//localhost:1313/opengraph.png"/>
 
 <meta name="twitter:title" content="Bug Reporting"/>
 <meta name="twitter:description" content="If you work in a company selling products digitally everyone needs to learn how to properly debug before reporting a bug/issue to the incident managers or the platform-/dev-team.
-It happens way too often that a bug is sort of thrown over the fence. Reporter: &ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&quot; OK&hellip; now what?
-Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum the following questions answered:  The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine?"/>
+It happens way too often that a bug is sort of thrown over the fence. Reporter: &ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&rdquo; OK&hellip; now what?
+Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum the following questions answered:
+
+The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine? If we cannot reproduce it it cannot be investigated &amp; fixed.
+
+
+It&rsquo;s honestly not useful that it happens on your laptop/mobile (only?) and that perhaps it might happen to more users.
+
+
+Also, what did you do to debug it? (Assuming a website-bug) Did you:
+
+
+try it in other browsers;
+clear you cache / delete your cookies;
+try it in incognito mode;
+try it on another device;
+try it without VPN or wifi (yes, also try on your phone&rsquo;s hotspot);
+make sure no plugins or extensions are interfering;
+make sure you are on the correct URL (http vs. https, www vs non-www)
+
+
+Are there signs of multiple users being affected by the bug? If so, how many per hour/day/week?
+
+
+This helps in determining the impact &amp; priority from a P4 (low-impact but still needs to be fixed) to P1 (production defect, all users are affected, drop everything and start fixing it)
+
+If you tried all the above and it&rsquo;s clear there is something going on then we can go to the next step. The actual bug report."/>
 
 <script type="application/ld+json">
 {
@@ -66,21 +132,21 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
   "keywords": [
     
   ],
-  "articleBody": "If you work in a company selling products digitally everyone needs to learn how to properly debug before reporting a bug/issue to the incident managers or the platform-/dev-team.\nIt happens way too often that a bug is sort of thrown over the fence. Reporter: “Hey Carlo, I cannot perform {INSERT ACTION HERE}, it’s not working as how I expected it to work, please investigate…\" OK… now what?\nBefore I jump into ‘investigation-mode’ I would need at the minimum the following questions answered:  The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine? If we cannot reproduce it it cannot be investigated \u0026 fixed.   It’s honestly not useful that it happens on your laptop/mobile (only?) and that perhaps it might happen to more users.  Also, what did you do to debug it? (Assuming a website-bug) Did you:   try it in other browsers; clear you cache / delete your cookies; try it in incognito mode; try it on another device; try it without VPN or wifi (yes, also try on your phone’s hotspot); make sure no plugins or extensions are interfering; make sure you are on the correct URL (http vs. https, www vs non-www)  Are there signs of multiple users being affected by the bug? If so, how many per hour/day/week?   This helps in determining the impact \u0026 priority from a P4 (low-impact but still needs to be fixed) to P1 (production defect, all users are affected, drop everything and start fixing it)  If you tried all the above and it’s clear there is something going on then we can go to the next step. The actual bug report.\nA good bug report:  is created by the bug reporter (and not the indident-managers or dev-team) contains all info to reproduce the issue  URLs Browser \u0026 Operating System Expected vs Received result Screenshots Share a HAR-file   is filed in the proper system (e.g. Jira/Slack) follows the agreed upon bug report-structure of the organization is assigned to the proper colleague  ",
+  "articleBody": "If you work in a company selling products digitally everyone needs to learn how to properly debug before reporting a bug/issue to the incident managers or the platform-/dev-team.\nIt happens way too often that a bug is sort of thrown over the fence. Reporter: “Hey Carlo, I cannot perform {INSERT ACTION HERE}, it’s not working as how I expected it to work, please investigate…” OK… now what?\nBefore I jump into ‘investigation-mode’ I would need at the minimum the following questions answered: The most important one of all is on Reproducability: can you tell me how I can reproduce it on my machine? If we cannot reproduce it it cannot be investigated \u0026 fixed. It’s honestly not useful that it happens on your laptop/mobile (only?) and that perhaps it might happen to more users. Also, what did you do to debug it? (Assuming a website-bug) Did you: try it in other browsers; clear you cache / delete your cookies; try it in incognito mode; try it on another device; try it without VPN or wifi (yes, also try on your phone’s hotspot); make sure no plugins or extensions are interfering; make sure you are on the correct URL (http vs. https, www vs non-www) Are there signs of multiple users being affected by the bug? If so, how many per hour/day/week? This helps in determining the impact \u0026 priority from a P4 (low-impact but still needs to be fixed) to P1 (production defect, all users are affected, drop everything and start fixing it) If you tried all the above and it’s clear there is something going on then we can go to the next step. The actual bug report.\nA good bug report: is created by the bug reporter (and not the indident-managers or dev-team) contains all info to reproduce the issue URLs Browser \u0026 Operating System Expected vs Received result Screenshots Share a HAR-file is filed in the proper system (e.g. Jira/Slack) follows the agreed upon bug report-structure of the organization is assigned to the proper colleague ",
   "wordCount" : "338",
   "inLanguage": "en",
   "datePublished": "2020-10-13T18:27:22+02:00",
   "dateModified": "2020-10-13T18:27:22+02:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.carlobloks.com/blog/bug-reporting/"
+    "@id": "//localhost:1313/blog/bug-reporting/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Carlo Bloks 😎",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.carlobloks.com/favicon.ico"
+      "url": "//localhost:1313/favicon.ico"
     }
   }
 }
@@ -88,9 +154,11 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
 
 
 
+
 </head>
 
 <body class=" dark" id="top">
+<button class="skip-main" onclick="(_ => document.querySelector('.main').focus())()">Skip to content</button>
 <script>
     if (localStorage.getItem("pref-theme") === "light") {
         document.body.classList.remove('dark')
@@ -109,7 +177,11 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://www.carlobloks.com/" accesskey="h" title="Carlo Bloks 😎 (Alt + H)">Carlo Bloks
+            <a href="//localhost:1313/" accesskey="h" title="Carlo Bloks 😎">
+              
+                <img src="/images/favicon-32x32.png" alt="logo" aria-label="logo"
+                    height="30px">
+                Carlo Bloks
             </a>
             <span class="logo-switches">
                 <span class="theme-toggle" title="(Alt + T)">
@@ -135,28 +207,33 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
                     </a>
                 </span>
                 
+                <span class="lang-switch">
+                    <span>|</span>
+                    <ul>
+                    </ul>
+                </span>
             </span>
         </div>
         <ul class="menu" id="menu" onscroll="menu_on_scroll()">
             <li>
-                <a href="https://www.carlobloks.com/about/" title="About Me">
+                <a href="//localhost:1313/about/" title="About Me">
                     <span>About Me</span>
                 </a>
             </li>
             <li>
-                <a href="https://www.carlobloks.com/resume/" title="Resume">
+                <a href="//localhost:1313/resume/" title="Resume">
                     <span>Resume</span>
                 </a>
             </li>
             <li>
-                <a href="https://www.carlobloks.com/blog/booklist-2021/" title="Booklist">
+                <a href="//localhost:1313/blog/booklist-2021/" title="Booklist">
                     <span>Booklist</span>
                 </a>
             </li></ul>
     </nav>
 </header>
 
-    <main class="main">
+    <main class="main" id="main" role="main" tabindex="-1">
 
 <article class="post-single">
   <header class="post-header">
@@ -170,7 +247,7 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
 
   <div class="post-content">
 <p>If you work in a company selling products digitally everyone needs to learn how to properly debug before reporting a bug/issue to the incident managers or the platform-/dev-team.</p>
-<p>It happens way too often that a bug is sort of thrown over the fence. Reporter: <em>&ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&quot;</em> OK&hellip; now what?</p>
+<p>It happens way too often that a bug is sort of thrown over the fence. Reporter: <em>&ldquo;Hey Carlo, I cannot perform {INSERT ACTION HERE}, it&rsquo;s not working as how I expected it to work, please investigate&hellip;&rdquo;</em> OK&hellip; now what?</p>
 <h3 id="before-i-jump-into-investigation-mode-i-would-need-at-the-minimum-the-following-questions-answered">Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum the following questions answered:<a hidden class="anchor" aria-hidden="true" href="#before-i-jump-into-investigation-mode-i-would-need-at-the-minimum-the-following-questions-answered">#</a></h3>
 <ol>
 <li>The most important one of all is on Reproducability: <strong>can you tell me how I can reproduce it on my machine?</strong> If we cannot reproduce it it cannot be investigated &amp; fixed.</li>
@@ -219,8 +296,10 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
   </footer>
 </article>
     </main><footer class="footer">
-    <span>&copy; KeyPiece 1986 - 2021 - KvK: 62455737</span>
-    <span>|</span>
+    <span>
+        <img class="avatar" src="/images/carlo2.png" alt="" width="100" height="100" style="max-height:100px"/>
+    </span>
+    <span>&copy; KeyPiece 1986 - 2026. All rights reserved. KvK: 62455737 <br /></span>
     <span>Powered by <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> and deployed by <a href="https://www.netlify.com/" rel="noopener noreferrer" target="_blank">Netlify</a></span>
     <span>🚀</span>
 </footer>
@@ -234,7 +313,7 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
 
 
 
-<script defer src="https://www.carlobloks.com/assets/js/highlight.min.27cd435cc9ed6abb4b496581b151804f79f366c412620272bb94e2f5f598ebcc.js" integrity="sha256-J81DXMntartLSWWBsVGAT3nzZsQSYgJyu5Ti9fWY68w="
+<script defer src="//localhost:1313/assets/js/highlight.min.555af97124d54bb1457985dd081b8f5616a48103aafeb30ac89fde835d65aa6c.js" integrity="sha256-VVr5cSTVS7FFeYXdCBuPVhakgQOq/rMKyJ/eg11lqmw="
     onload="hljs.initHighlightingOnLoad();"></script>
 <script>
     window.onload = function () {
@@ -284,6 +363,9 @@ Before I jump into &lsquo;investigation-mode&rsquo; I would need at the minimum 
     })
 
 </script>
+
+   
+    
 
 </body>
 

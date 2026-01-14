@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resume on Carlo Bloks 😎</title>
-    <link>https://www.carlobloks.com/tags/resume/</link>
-    <description>Recent content in resume on Carlo Bloks 😎</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.carlobloks.com/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <title>Resume on Carlo Bloks 😎</title>
+    <link>//localhost:1313/tags/resume/</link>
+    <description>Recent content in Resume on Carlo Bloks 😎</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>https://www.carlobloks.com/resume/</link>
+      <link>//localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carlobloks.com/resume/</guid>
-      <description>Digital Product Owner / Digital Experience Manager hi@carlobloks.com | LinkedIn | +31614873993
-Curious what others say about me?
-As a Digital Product Owner I have a 8+ year track record in leading and managing cross-functional Agile / Scrum teams in various startup and large corporate organisations on an international level.
-I have a thorough understanding of the digital landscape - both technical &amp;amp; commercial - and my curiosity drives me to keep seeking continuously for opportunities that optimise and improve UI / UX and online sales as well as developing the most intuitive digital experiences.</description>
+      <guid>//localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;digital-product-owner--digital-experience-manager&#34;&gt;Digital Product Owner / Digital Experience Manager&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:hi@carlobloks.com&#34;&gt;hi@carlobloks.com&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/carlobloks/&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;#ZgotmplZ&#34;&gt;+31614873993&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;I am currently not available as I am fully booked until July &amp;lsquo;26&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Curious what others &lt;a href=&#34;//localhost:1313/testimonials/&#34;&gt;say about me&lt;/a&gt;?&lt;/p&gt;&#xA;&lt;p&gt;Freelance Digital Product Owner with 14+ years of experience helping teams turn ideas into reliable, user-focused digital products.&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I’ve led cross-functional Agile teams across industries and countries, always focused on creating products that make sense for both users and the business. Known for bridging the gap between strategy and technology, translating complex ideas into clear priorities and deliverables that move teams forward.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What others say about me</title>
-      <link>https://www.carlobloks.com/testimonials/</link>
+      <link>//localhost:1313/testimonials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carlobloks.com/testimonials/</guid>
-      <description>I am super proud and very grateful for the kind words that have been written about me. They are also posted on my LinkedIn if you want proof 😄
- Tobias Siebert Senior Software Developer at Allianz Global Digital Factory
- &amp;ldquo;Carlo is one of the rare product owners that combines a deep technological understanding with a clear product vision and strong communication skills. I worked with him in a very demanding environment for 2 years.</description>
+      <guid>//localhost:1313/testimonials/</guid>
+      <description>&lt;p&gt;I am super proud and very grateful for the kind words that have been written about me. They are also posted on my &lt;a href=&#34;https://www.linkedin.com/in/carlobloks/&#34;&gt;LinkedIn&lt;/a&gt; if you want proof 😄&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;tobias-siebert&#34;&gt;Tobias Siebert&lt;/h3&gt;&#xA;&lt;p&gt;Senior Software Developer at Allianz Global Digital Factory&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Carlo is one of the rare product owners that combines a deep technological understanding with a clear product vision and strong communication skills. I worked with him in a very demanding environment for 2 years. During this time, his commitment and drive helped us to achieve our goal on time. He is able to understand often vague requirements from stakeholders and to figure out what their actual need is. By turning these into clear user stories, he ensures that all developers are able to work without that friction. During this process, he also uses his deep technical understanding. An important factor is also his ability to keep the team spirit up. Especially in situations with high delivery pressure. He truly is a real team-player that stands up for his team. I thoroughly enjoyed working with Carlo and would be delighted to work again with him in the future.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

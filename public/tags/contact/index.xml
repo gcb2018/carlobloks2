@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>contact on Carlo Bloks 😎</title>
-    <link>https://www.carlobloks.com/tags/contact/</link>
-    <description>Recent content in contact on Carlo Bloks 😎</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.carlobloks.com/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <title>Contact on Carlo Bloks 😎</title>
+    <link>//localhost:1313/tags/contact/</link>
+    <description>Recent content in Contact on Carlo Bloks 😎</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/tags/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.carlobloks.com/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carlobloks.com/about/</guid>
-      <description>About me The sheer desire to get ahead, solve problems and improve everyday. That&amp;rsquo;s what drives me both in my personal and professional life. I like challenging the status quo and trying out completely new approaches.
-From early on I have been curious and wanting to understand how things work and why. Always eager to learn something new and completely dive into the topic or taking it apart to see the inside and if I can get it to work again.</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;The sheer desire to get ahead, solve problems and improve everyday. That&amp;rsquo;s what drives me both in my personal and professional life. I like challenging the status quo and trying out completely new approaches.&lt;/p&gt;&#xA;&lt;p&gt;From early on I have been curious and wanting to understand how things work and why. Always eager to learn something new and completely dive into the topic or taking it apart to see the inside and if I can get it to work again.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

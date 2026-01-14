@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization on Carlo Bloks 😎</title>
+    <link>//localhost:1313/tags/optimization/</link>
+    <description>Recent content in Optimization on Carlo Bloks 😎</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jul 2022 11:12:00 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website optimization - KPIs</title>
+      <link>//localhost:1313/blog/optimization-kpis/</link>
+      <pubDate>Fri, 08 Jul 2022 11:12:00 +0200</pubDate>
+      <guid>//localhost:1313/blog/optimization-kpis/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Optimizing the overall platform performance is a cross-disciplinary effort. It includes targeting the right audience on the essential channels with the right content (SEA / Adwords). It&amp;rsquo;s about improving the connection between what the audience sees off-platform and what they encounter once landing on the platform (Campaign / Traffic management). Lastly it&amp;rsquo;s about the quality and completeness of all the content we serve on the platform (SEO / Content &amp;amp; Web Management).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Espresso on Carlo Bloks 😎</title>
+    <link>//localhost:1313/categories/espresso/</link>
+    <description>Recent content in Espresso on Carlo Bloks 😎</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jun 2024 08:55:00 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/espresso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grinder (df83v) inconsistency issues FIXED</title>
+      <link>//localhost:1313/blog/df83v-issues-fixed/</link>
+      <pubDate>Sun, 23 Jun 2024 08:55:00 +0200</pubDate>
+      <guid>//localhost:1313/blog/df83v-issues-fixed/</guid>
+      <description>&lt;p&gt;When you&amp;rsquo;ve just purchased a new grinder there are a couple things you need to make sure of which for some reason is not mentioned in most reviews.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First you need to &lt;em&gt;season the burrs&lt;/em&gt;. This means putting at least a couple KGs of cheap oily beans through the grinder. I did 2 KGs on my DLC burrs before I noticed more consistency but will probably do another kilo. Different burrs need different amounts op seasoning it seems. The procedure here is simple: just keep on grinding on different settings and do it in 250gr batches to not overheat the grinder.&lt;/li&gt;&#xA;&lt;li&gt;Second. Make sure the &lt;em&gt;burrs are aligned&lt;/em&gt; properly. Factory alignment might be ok-ish in most situations but you need to verify this yourself. The procedure here is a bit more finicky. You can follow Lance Hedrick&amp;rsquo;s tips in his &lt;a href=&#34;https://www.youtube.com/watch?v=jsj_xkZbS60&#34;&gt;burr alignment video&lt;/a&gt;. I was as lucky as he was: I only had to adjust it once (by adding two small pieces of foil in 1 layer), and test it twice before it was perfectly aligned.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;After doing these steps I noticed way better consistency in my shots as well as dialing in was easier as well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

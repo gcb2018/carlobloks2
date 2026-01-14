@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Carlo Bloks 😎</title>
+    <link>//localhost:1313/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Carlo Bloks 😎</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Feb 2022 10:28:00 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting a 504 error on Wordpress?</title>
+      <link>//localhost:1313/blog/wordpress-restore-error-504/</link>
+      <pubDate>Sun, 20 Feb 2022 10:28:00 +0200</pubDate>
+      <guid>//localhost:1313/blog/wordpress-restore-error-504/</guid>
+      <description>&lt;p&gt;So I&amp;rsquo;ve been trying to restore the backup of my Wordpress site and I&amp;rsquo;ve been getting a 504 error. I&amp;rsquo;ve tried to use the &lt;a href=&#34;https://developer.wordpress.org/rest-api/reference/&#34;&gt;Wordpress REST API&lt;/a&gt; to restore the backup but it&amp;rsquo;s not working. Regardless of the reason, I&amp;rsquo;ve been getting the error for a long time.&lt;/p&gt;&#xA;&lt;p&gt;Check first with your hosting provider if they are running any proxies. If not, you can solve the issue by adding a &lt;code&gt;.user.ini&lt;/code&gt; file to your Wordpress site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

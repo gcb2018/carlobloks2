@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>homepod on Carlo Bloks 😎</title>
-    <link>https://www.carlobloks.com/tags/homepod/</link>
-    <description>Recent content in homepod on Carlo Bloks 😎</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jan 2021 20:51:12 +0200</lastBuildDate><atom:link href="https://www.carlobloks.com/tags/homepod/index.xml" rel="self" type="application/rss+xml" />
+    <title>Homepod on Carlo Bloks 😎</title>
+    <link>//localhost:1313/tags/homepod/</link>
+    <description>Recent content in Homepod on Carlo Bloks 😎</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jan 2021 20:51:12 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/homepod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HomePod mini - Finally here</title>
-      <link>https://www.carlobloks.com/blog/homepod-mini/</link>
+      <link>//localhost:1313/blog/homepod-mini/</link>
       <pubDate>Sat, 30 Jan 2021 20:51:12 +0200</pubDate>
-      
-      <guid>https://www.carlobloks.com/blog/homepod-mini/</guid>
-      <description>4 Months of waiting I think they were announced somewhere in October and now 4 months later I finally got my hands on 2 HomePod minis. In short: they are absolutely great value for the money and I can really recommend them, especially if you are already deep in the &amp;lsquo;Apple ecosystem&amp;rsquo;.
-After trying them out in different rooms (where they all sound great) I ended up putting them both in the living room &amp;amp; kitchen.</description>
+      <guid>//localhost:1313/blog/homepod-mini/</guid>
+      <description>&lt;h2 id=&#34;4-months-of-waiting&#34;&gt;4 Months of waiting&lt;/h2&gt;&#xA;&lt;p&gt;I think they were announced somewhere in October and now 4 months later I finally got my hands on 2 HomePod minis. In short: they are absolutely great value for the money and I can really recommend them, especially if you are already deep in the &amp;lsquo;Apple ecosystem&amp;rsquo;.&lt;/p&gt;&#xA;&lt;p&gt;After trying them out in different rooms (where they all sound great) I ended up putting them both in the living room &amp;amp; kitchen. This is a 50m2 area and after adding 2 HomePods Originals next to the TV I felt I was missing great sound on the other side of the living room and in the kitchen. This setup gives the room a super nice experience as you hear the music coming from every direction.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
